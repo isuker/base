@@ -1,2 +1,2 @@
 #  base
-There is nothing.
+Nothing left of me.
