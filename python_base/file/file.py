@@ -6,11 +6,7 @@ multiline comment
 '''
 
 f = open("p.txt","r+")
-
+print(f.tell())
 #position of file
-f.seek(2.0)
-print(f.tell())
-f.seek(1.1)
-print(f.tell())
-f.seek(4.2)
+f.seek(2,0)
 print(f.tell())

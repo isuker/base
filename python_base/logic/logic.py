@@ -17,7 +17,6 @@ for x in list:
     print(x)
     if x == 3:
         continue
-    print(x)
 else:
     print("exit")
 #------------------------
