@@ -1,3 +1,3 @@
-import urllib
+import httplib
 
-f = urllib.urlopen('www.baidu.com')
+

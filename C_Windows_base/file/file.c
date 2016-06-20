@@ -1,9 +1,15 @@
-int main(int argc, char const *argv[])
+#include <stdio.h>
+int main()
 {
-	if ((fp=fopen()))
+	FILE *fp;
+	char str[11];
+	if((fp=fopen("x.txt","rt"))==NULL)
 	{
-		/* code */
+		printf("Cannot open file strike any key exit!");
+		getch();
+		exit(1);
 	}
-
-	return 0;
+	fgets(str,11,fp);
+	printf("%s",str);
+	fclose(fp);
 }
