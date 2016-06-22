@@ -19,7 +19,7 @@ int main()
     
     address.sin_family = AF_INET;
     address.sin_addr.s_addr = inet_addr("219.223.242.244");
-    address.sin_port = htons(9734);
+    address.sin_port = htons(12345);
     len = sizeof(address);
     
     //将创建的套接字连接到服务器套接字
