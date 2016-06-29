@@ -1,14 +1,15 @@
 #include <stdio.h>
 
-struct  node
+typedef struct  list
 {
      int x=1;	
-}
+}node;
+
 
 int main(int argc, char const *argv[])
 {
-	node xx;
-    printf("%d\n",xx.x);	
+	node x;
+    printf("%d\n",x.x);	
 	/* code */
 	return 0;
 }
