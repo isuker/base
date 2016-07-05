@@ -1,0 +1,2558 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="dns-prefetch" href="http://w1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://w2.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://w3.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://w4.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://b2.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://b3.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://i1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://i2.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://i3.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://t1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://t2.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://t3.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="http://shihuo.hupucdn.com" />
+<link rel="dns-prefetch" href="http://img1.hupucdn.com" />
+<link rel="dns-prefetch" href="http://img2.hupucdn.com" />
+<title>NBA|虎扑篮球 - 最篮球的世界</title>
+<meta name="keywords" content="NBA,NBA中文网,篮球" />
+<meta name="description" content="NBA,虎扑NBA中文网,NBA为主的专业篮球网站,专注于最全的NBA直播,NBA视频,图片及原创NBA新闻,分析等深入内容,拥有良好氛围的NBA火箭,湖人,热火等全部NBA球队论坛." />
+<meta name="Author" content="NBA" />
+<!--<script id="watch_script" data-mid="6" src="http://b3.hoopchina.com.cn/js/watch/watch.js?v=1.0.0"></script>-->
+<script type="text/javascript">
+    var __daceDataNameOfChannel = 'nba';
+</script>
+
+
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+    googletag.defineSlot('/1016953/hc_newIndex728x90_2', [728, 90], 'div-gpt-ad-1442459674416-0').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/hoopchina-index-bottom-banner728x90', [728, 90], 'div-gpt-ad-1442459674416-1').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/nab_index_linshi_240x200', [240, 200], 'div-gpt-ad-1442459674416-2').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/nba_index_shihuo240x240linshi', [240, 240], 'div-gpt-ad-1442459674416-3').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/ca-pub-1024337685431355', [240, 100], 'div-gpt-ad-1442459674416-4').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/hc_newIndexRight234x200', [240, 200], 'div-gpt-ad-1442459674416-5').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/hc_middleRight240x240', [240, 240], 'div-gpt-ad-1442459674416-6').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/nba_index_240x100_2', [240, 100], 'div-gpt-ad-1442459674416-7').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/HC-index-bottomright-200x200', [200, 200], 'div-gpt-ad-1442459674416-8').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/nba_index_1x1', [1, 1], 'div-gpt-ad-1442459674416-9').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/nba_index_1x1_half', [1, 1], 'div-gpt-ad-1442459674416-10').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/linshi320X205', [320, 205], 'div-gpt-ad-1442459674416-11').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/nba_index_kaluli_240x240', [240, 240], 'div-gpt-ad-1442459674416-12').addService(googletag.pubads());
+
+    googletag.defineSlot('/1016953/nbaindex_728x90_2_1', [728, 90], 'div-gpt-ad-1442459674416-13').addService(googletag.pubads());
+    googletag.defineSlot('/1016953/nbaindex_240x200_right_1', [240, 200], 'div-gpt-ad-1442459674416-14').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<link rel="shortcut icon" href="http://b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="http://b3.hoopchina.com.cn/common/common.gb2312-v1.css" />
+<script src="http://b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script> 
+<script src="http://b3.hoopchina.com.cn/common/common.gb2312-v1.js"></script>
+<link href="http://w3.hoopchina.com.cn/index/style/index-v4.css?v=201605101927" rel="stylesheet" type="text/css" />
+<link rel="canonical" href="http://nba.hupu.com/" />
+</head>
+<body>
+
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="http://m.hupu.com/" target="_blank"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="http://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑体育客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="http://e.weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="http://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="http://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                            <a class="qq" target="_blank" rel="nofollow" href="http://e.t.qq.com/the_real_hoopchina"><i class="hp-ico-qq"></i>腾讯微博</a>
+                                            <a class="renren" target="_blank" rel="nofollow" href="http://page.renren.com/699131720"><i class="hp-ico-renren"></i>人人网</a>
+                                            <a class="qzone" target="_blank" rel="nofollow" href="http://user.qzone.qq.com/1624355655"><i class="hp-ico-qzone"></i>QQ空间</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-A"><div class="hp-logo"><a title="虎扑篮球" href="http://nba.hupu.com/"><img src="http://b3.hoopchina.com.cn/images/logo2013/v1/hp_logo_nba.png" alt="NBA" /></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="http://www.hupu.com/" >虎扑体育</a></li><li class="line">|</li><li class="on"><a href="http://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li><a href="http://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li><a href="http://soccer.hupu.com/2016" target="_blank">欧洲杯</a></li><li class="line">|</li><li><a href="http://soccer.hupu.com/index" >国际足球</a></li><li class="line">|</li><li><a href="http://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://racing.hupu.com/" >赛车</a></li><li class="line">|</li><li><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="http://v.videohupu.com/" >视频</a></li><li class="line">|</li><li><a href="http://photo.hupu.com/" >图片</a></li><li class="line">|</li><li><a href="http://bbs.hupu.com/" >论坛</a></li><li class="line">|</li><li><a href="http://www.videohupu.com/" target="_blank">虎扑TV</a></li><li class="line">|</li><li><a href="http://hupu.gameol.com/" >游戏</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="http://tennis.hupu.com/" >网球</a><a href="http://caipiao.hupu.com/" target="_blank">彩票</a><a href="http://bbs.hupu.com/all-gambia" >甘比亚</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >跑步</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" >NFL</a><a href="http://golf.hupu.com/" target="_blank">高尔夫</a><a href="http://edu.hupu.com/" target="_blank">教育</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+			<ul class="hp-subNav-item">
+				<li><a target="_blank" href="http://nba.hupu.com">首页</a></li>
+				<li class="line">|</li>
+				<li class="hp-dropDownMenu">
+					<a target="_blank"  href="http://voice.hupu.com/nba" class="hp-set">新闻</a>
+					<div class="hp-drapDown">
+						<a target="_blank" href="http://voice.hupu.com/nba">NBA新闻</a>
+						<a target="_blank" href="http://voice.hupu.com/cba">中国篮球</a>
+                        <a target="_blank" href="http://voice.hupu.com/o/rockets">火箭新闻</a>
+						<a target="_blank" href="http://voice.hupu.com/o/cavaliers">骑士新闻</a>
+                        <a target="_blank" href="http://voice.hupu.com/o/lakers">湖人新闻</a>
+						<a target="_blank" href="http://voice.hupu.com/o/warriors">勇士新闻</a>
+						<a target="_blank" href="http://voice.hupu.com/o/heat">热火新闻</a>
+                        <a target="_blank" href="http://voice.hupu.com/o/thunder">雷霆新闻</a>
+                        <a target="_blank" href="http://voice.hupu.com/zb/trends">装备新闻</a>
+                        <s class="arrow-top"><s class="arrowbd"></s></s>
+					</div>
+				</li>
+				<li class="line">|</li>
+				<li class="hp-dropDownMenu">
+                                    <a target="_blank" href="http://v.videohupu.com/nba" class="hp-set">视频</a>
+                                    <div class="hp-drapDown">
+                                        <a target="_blank" href="http://v.videohupu.com/nba/game">比赛视频</a>
+                                        <a target="_blank" href="http://v.videohupu.com/nba/hot">热门视频</a>                                      
+                                        <a target="_blank" href="http://v.videohupu.com/nba/new/Cavaliers">骑士视频</a>
+                                        <a target="_blank" href="http://v.videohupu.com/nba/new/rockets">火箭视频</a>
+										<a target="_blank" href="http://v.videohupu.com/nba/new/lakers">湖人视频</a>
+                                        <a target="_blank" href="http://v.videohupu.com/nba/new/teams">诸强视频</a>
+                                        <a href="http://v.videohupu.com/nba/new/history" target="_blank">传奇球星</a>
+                                        <a target="_blank" href="http://v.videohupu.com/nba/new/streetball">街球视频</a>
+                                        <a href="http://v.videohupu.com/nba" target="_blank">更多</a>
+                                        <s class="arrow-top"><s class="arrowbd"></s></s>
+                                    </div>
+                                </li>
+				<li class="line">|</li>
+				<li class="hp-dropDownMenu">
+                                    <a target="_blank" href="http://photo.hupu.com/nba" class="hp-set">图片</a>
+                                    <div class="hp-drapDown">
+                                        <a target="_blank" href="http://photo.hupu.com/nba/tag/%E7%BE%A4%E6%98%9F">球星</a>
+                                        <a target="_blank" href="http://photo.hupu.com/nba/tag/%E6%90%9E%E7%AC%91">搞笑</a>
+                                        <a target="_blank" href="http://photo.hupu.com/nba/tag/%E6%BC%AB%E7%94%BB">漫画</a>
+                                        <a target="_blank" href="http://photo.hupu.com/nba/tag/cba">中国篮球</a>
+                                        <a target="_blank" href="http://photo.hupu.com/soccer">足球</a>
+                                        <a target="_blank" href="http://photo.hupu.com/ent/tag/%E7%BE%8E%E5%A5%B3">美女</a>
+                                        <a target="_blank" href="http://photo.hupu.com/ent/tag/%E5%A8%B1%E4%B9%90">娱乐</a>
+                                        <a target="_blank" href="http://photo.hupu.com/nba/new">新鲜</a>
+                                        <s class="arrow-top"><s class="arrowbd"></s></s>
+                                    </div>
+                                </li>
+				<li class="line">|</li>
+				<li class="hp-dropDownMenu">
+                                    <a href="http://g.hupu.com/nba/" class="hp-set" target="_blank">比赛中心</a>
+                                    <div class="hp-drapDown">
+                                        <a href="http://g.hupu.com/nba/standings" target="_blank">战绩排行</a>
+                                        <s class="arrow-top"><s class="arrowbd"></s></s>
+                                    </div>
+                                </li>
+				<li class="line">|</li>
+				<li class="hp-dropDownMenu">
+                                    <a href="http://g.hupu.com/nba/schedule" class="hp-set" target="_blank">赛程</a>
+                                    <div class="hp-drapDown">
+                                        <a href="http://g.hupu.com/nba/schedule" target="_blank">NBA赛程</a>
+                                        <a href="http://g.hupu.com/nba/schedule/rockets" target="_blank">火箭赛程</a>                        
+                                        <a href="http://g.hupu.com/nba/schedule/cavaliers" target="_blank">骑士赛程</a>
+										<a href="http://g.hupu.com/nba/schedule/lakers" target="_blank">湖人赛程</a>
+                                        <s class="arrow-top"><s class="arrowbd"></s></s>
+                                    </div>
+                                </li>
+				<li class="line">|</li>
+				<li><a href="http://v.videohupu.com/nba/tv/" target="_blank">直播</a></li>
+				<li class="line">|</li>
+				<li class="hp-dropDownMenu">
+                                    <a target="_blank" href="http://g.hupu.com/nba/teams" class="hp-set">球队</a>
+                                    <div class="hp-drapDown">
+                                        <a href="http://g.hupu.com/nba/teams/rockets" target="_blank">火箭</a>
+										<a href="http://g.hupu.com/nba/teams/cavaliers" target="_blank">骑士</a>
+                                        <a href="http://g.hupu.com/nba/teams/lakers" target="_blank">湖人</a>
+										<a href="http://g.hupu.com/nba/teams/warriors" target="_blank">勇士</a>                   
+                                        <a target="_blank" href="http://voice.hupu.com/nba/newslist">球队新闻</a>
+                                        <a target="_blank" href="http://v.videohupu.com/nba">球队视频</a>
+                                        <a target="_blank" href="http://g.hupu.com/nba/players/">球队球员</a>
+                                        <a target="_blank" href="http://g.hupu.com/nba/stats/players/pts">球员数据</a>
+                                        <a target="_blank" href="http://g.hupu.com/nba/standings">球队排行</a>
+                                        <s class="arrow-top"><s class="arrowbd"></s></s>
+                                    </div>
+                </li>
+				<li class="line">|</li>
+                <li><a href="http://nba.hupu.com/draft/"  target="_blank">选秀</a></li>
+                <li class="line">|</li>
+				<li><a href="http://bbs.hupu.com/streetball"  target="_blank">街球</a></li>
+				<li class="line">|</li>
+				<li class="hp-dropDownMenu">
+                                    <a href="http://caipiao.hupu.com/jclq/"  target="_blank" class="hp-set">篮彩</a>
+                                    <div class="hp-drapDown">
+                                        <a target="_blank" href="http://caipiao.hupu.com/pages/lottery/jclc/index_guding_rfsf.shtml">篮球让分胜负</a>
+                                        <a target="_blank" href="http://caipiao.hupu.com/pages/lottery/jclc/index_guding_dxf.shtml">篮球大小分</a>
+                                        <a target="_blank" href="http://caipiao.hupu.com/pages/lottery/jclc/index_guding_sfc.shtml">篮球胜分差</a>
+                                        <a target="_blank" href="http://bbs.hupu.com/lancai">篮彩论坛</a>
+                                        <!--<a target="_blank" href="http://goucai.hupu.com/guide">篮彩新手指南</a>-->
+                                        <a target="_blank" href="http://caipiao.hupu.com/jczq/">竞彩足球</a>
+                                         <s class="arrow-top"><s class="arrowbd"></s></s>
+                                    </div>
+                                </li>
+				<li class="line">|</li>
+				<li class="hp-dropDownMenu">
+                                    <a target="_blank" href="http://bbs.hupu.com/all-nba" class="hp-set">NBA论坛</a>
+                                    <div class="hp-drapDown">
+                                        <a target="_blank" href="http://bbs.hupu.com/rockets">火箭</a>
+										<a target="_blank" href="http://bbs.hupu.com/cavaliers">骑士</a>
+										<a target="_blank" href="http://bbs.hupu.com/spurs">马刺</a>
+                                        <a target="_blank" href="http://bbs.hupu.com/lakers">湖人</a>
+										<a target="_blank" href="http://bbs.hupu.com/warriors">勇士</a>
+										<a target="_blank" href="http://bbs.hupu.com/thunder">雷霆</a>
+										<a target="_blank" href="http://bbs.hupu.com/mavericks">小牛</a>
+										<a target="_blank" href="http://bbs.hupu.com/heat">热火</a>
+                                        <a target="_blank" href="http://bbs.hupu.com/clippers">快船</a>										
+                                        <a target="_blank" href="http://bbs.hupu.com/nba">篮球场</a>
+                                        <a target="_blank" href="http://bbs.hupu.com/vote">湿乎乎的话题</a> 
+                                        <a target="_blank" href="http://bbs.hupu.com/shenlan">深篮讨论</a>
+                                        <s class="arrow-top"><s class="arrowbd"></s></s>
+                                    </div>
+                                </li>
+				<li class="line">|</li>
+				<li><a target="_blank" href="http://my.hupu.com/public/nba">热榜</a></li>
+			</ul> 
+		</div>
+
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+<script src="http://b3.hoopchina.com.cn/common/jquery.js" type="text/javascript"></script>
+<script type='text/javascript' src='http://img1.sj.qq.com/api/scripts/sjqqapi.js' charset='utf-8'></script>
+<script type='text/javascript' src='http://b3.hoopchina.com.cn/web/widget/material/2015/2/ckplayer/ckplayer.js?v=20150602' charset='utf-8'></script>
+
+<div id="hupu-stream"><!--下拉广告预留div--></div>
+<div class="hp-wrap" style="position:relative;z-index:1;">
+    <div class="nba-ad980-60">
+    <iframe width="980" height="60" scrolling="no" frameborder="0" allowtransparency="true" hspace="0" vspace="0" marginheight="0" marginwidth="0" src="http://t1.hoopchina.com.cn/topn-v2.html#!zone-273723"></iframe>
+    </div>
+    	<div class="Main">
+            <div class="focusText">
+                <div class="pic" id="pic">
+                    <div class="ui-slider" id="J_uiSlider">
+    <div class="slider-pic">
+        <ul class="list">
+                                        <li><a target="_blank" href="http://bbs.hupu.com/16688212.html" title="一个纯篮球的决定"><img src="http://w4.hoopchina.com.cn/a2/ef/94/a2ef940807711a057ae40713727c5e9d001.jpg" alt="一个纯篮球的决定"/></a></li>
+                                                        <li><a target="_blank" href="http://bbs.hupu.com/16663162.html" title="凯里-欧文的新高度"><img src="http://w4.hoopchina.com.cn/da/89/a4/da89a4b86ed6c79d245bc307feba91ab001.jpg" alt="凯里-欧文的新高度"/></a></li>
+                                                                                    <li><a target="_blank" href="http://goto.hupu.com/?a=goClick&id=13069" title=""><img src="http://w3.hoopchina.com.cn/74/59/f7/7459f78b53b25c5accf8e256c75a89e6001.jpg" alt=""/></a></li>
+                                                        <li><a target="_blank" href="http://goto.hupu.com/?a=goClick&id=8739" title=""><img src="http://w4.hoopchina.com.cn/9d/0a/69/9d0a69169e4725ef48e61181c2d57cfb001.jpg" alt=""/></a></li>
+                                                                </ul>
+    </div>
+    <ul class="slider-text">
+                            <li class="active">
+                        <div class="text-bg">
+                <h3 class="title"><a target="_blank" href="http://bbs.hupu.com/16688212.html">一个纯篮球的决定</a></h3>
+                <div class="text">杜兰特最终选择了金州勇士。成王败寇，看你的了！</div>
+            </div>
+                    </li>
+                                        <li >
+                        <div class="text-bg">
+                <h3 class="title"><a target="_blank" href="http://bbs.hupu.com/16663162.html">凯里-欧文的新高度</a></h3>
+                <div class="text">这样的欧文，才是那个当年被我们寄予厚望的状元郎。</div>
+            </div>
+                    </li>
+                                                            <li >
+                    </li>
+                                        <li >
+                    </li>
+                                            </ul>
+
+</div>
+<script>
+    $(document).ready(function(){
+        $('#J_uiSlider').slider();
+    });
+</script>                    <!--虎扑制造开始-->
+                    <div class="zhizao team manufacture">
+                        <div class="title news">
+                            <h4 class="b2">虎视篮球</h4>
+                        </div>
+                        <div class="clear"></div>
+                        
+<div class="bd">
+    <dl class="nba-item-A">
+        <dt>
+            <a href="http://bbs.hupu.com/16681535.html" target="_blank">
+                <img src="http://w2.hoopchina.com.cn/f2/60/b6/f260b69181eec4b222f86c5284e303a8001.jpg" alt="" />
+            </a>
+        </dt>
+        <dd>
+            <h5>
+                <a href="http://bbs.hupu.com/16681535.html"  target="_blank">
+                    莱恩-安德森：弱化版司机？                </a>
+            </h5>
+        </dd>
+        <dd class="textInfo">火箭新援究竟是个怎样的球员？火箭为何愿意砸他 8000 万？ </dd>
+    </dl>
+    <dl class="nba-item-A">
+        <dt>
+            <a href="http://bbs.hupu.com/16672290.html" target="_blank">
+                <img src="http://w3.hoopchina.com.cn/b2/f5/af/b2f5afc2707df9e04d19788ae9754128001.jpg" />
+            </a>
+        </dt>
+        <dd>
+            <h5>
+                <a href="http://bbs.hupu.com/16672290.html" target="_blank">
+                    索恩-梅克：神秘蜘蛛人                </a>
+            </h5>
+        </dd>
+        <dd class="textInfo">今年的第 10 号新秀，可能会是一个比字母哥还更妖的怪物……</dd>
+    </dl>
+    <div class="list">
+        <ul>
+            <li>
+                <a href="http://bbs.hupu.com/16688431.html" target="_blank">
+                    KD！追梦从床上蹦了起来！                </a>
+                                    <a href="http://bbs.hupu.com/16685732.html" target="_blank">
+                        你对下赛季勇士有何期待？                    </a>
+                            </li>
+            <li>
+                <a href="http://bbs.hupu.com/16597055.html" target="_blank">
+                    邓恩，森林狼的真命天子？                </a>
+                                    <a href="http://bbs.hupu.com/16656418.html" target="_blank">
+                        五问圣安东尼奥马刺队                    </a>
+                            </li>
+        </ul>
+    </div>
+</div>
+
+
+                    </div>
+                    <!--虎扑制造结束-->
+                </div>
+
+                <!--左图右字-->
+                <div class="text">
+                    <h2><a target="_blank" href="http://bbs.hupu.com/16685628.html" >杜兰特宣布决定：加盟勇士</a><a target="_blank" href="http://bbs.hupu.com/16685852.html"style="color:#AF4545"  >杜兰特亲笔：我的下一章</a></h2>
+<h3><a target="_blank" href="http://voice.hupu.com/nba/2046856.html" >夏联第三日：马刺24分轻取爵士</a>|<a target="_blank" href="http://voice.hupu.com/nba/2046733.html" >威斯布鲁克不会与雷霆提前续约？</a></h3>
+<h3><a target="_blank" href="http://voice.hupu.com/nba/2046871.html" >杜兰特离开雷霆，小球迷当场泪崩</a>|<a target="_blank" href="http://voice.hupu.com/nba/2046778.html" >勇士格林：杜兰特完美适合我们</a></h3>
+<h3><a target="_blank" href="http://voice.hupu.com/nba/2046853.html" >普雷斯蒂：威斯布鲁克会调整适应</a>|<a target="_blank" href="http://voice.hupu.com/nba/2046876.html" >普雷斯蒂：很感激杜兰特的贡献</a></h3>
+<h3><a target="_blank" href="http://voice.hupu.com/nba/2046837.html" >史蒂芬森谈回归步行者：很愿意回家</a>|<a target="_blank" href="http://goto.hupu.com/?a=goClick&id=11772" >利拉德二代签名鞋7折热促中</a></h3>
+                    <hr />
+                    <h2><a target="_blank" href="http://voice.hupu.com/nba/2046690.html" >Woj：邓肯目前强烈倾向退役</a><a target="_blank" href="http://bbs.hupu.com/16686394.html"style="color:#AF4545"  >美球迷热议阿杜加盟勇士</a></h2>
+<h3><a target="_blank" href="http://bbs.hupu.com/16690837.html" >无私！德克愿以一千万左右回小牛？</a>|<a target="_blank" href="http://voice.hupu.com/nba/2046838.html" >多名自由球员愿底薪加盟勇士</a></h3>
+<h3><a target="_blank" href="http://voice.hupu.com/nba/2046823.html" >莫兹戈夫：我将会帮助球队前进</a>|<a target="_blank" href="http://voice.hupu.com/nba/2046842.html" >麦康奈尔赞西蒙斯：他很适合球队</a></h3>
+<h3><a target="_blank" href="http://voice.hupu.com/nba/2046855.html" >掘金用法里德向老鹰报价米尔萨普</a>|<a target="_blank" href="http://voice.hupu.com/nba/2046858.html" >热火对重新签约韦德感到乐观？</a></h3>
+<h3><a target="_blank" href="http://goto.hupu.com/?a=goClick&id=12595" >全新体验，179元拥有“专业教练”</a>|<a target="_blank" href="http://goto.hupu.com/?a=goClick&id=9961" >炫酷款！阿迪刀锋跑鞋剁手价</a></h3>
+                    <hr />
+                    <h2><a target="_blank" href="http://voice.hupu.com/cba/2046624.html" >易建联赵继伟确认出战斯杯</a><a target="_blank" href="http://voice.hupu.com/cba/2046658.html"style="color:#AF4545"  >赵本山身披战袍驰骋球场</a></h2>
+<h3><a target="_blank" href="http://voice.hupu.com/cba/2046802.html" >林志杰：刘铮适应能力很不错</a>|<a target="_blank" href="http://bbs.hupu.com/16684039.html" >被选中就去NBA，大郅上限会在哪？</a></h3>
+<h3><a target="_blank" href="http://bbs.hupu.com/16689520.html" >胡金秋若打耐克峰会能有怎样数据？</a>|<a target="_blank" href="http://voice.hupu.com/cba/2046772.html" >惠龙儿：不在意第几位被选中</a></h3>
+<h3><a target="_blank" href="http://voice.hupu.com/cba/2046757.html" >郭士强：培养新人要先保证战绩</a>|<a target="_blank" href="http://voice.hupu.com/cba/2046636.html" >胡金秋23分，国奥不敌罗马尼亚队</a></h3>
+<h3><a target="_blank" href="http://voice.hupu.com/cba/2046647.html" >回归！佛山前锋朱旭航伤愈复出</a>|<a target="_blank" href="http://voice.hupu.com/cba/2046665.html" >爱妻投篮完爆吴楠：女篮还招人么</a></h3>
+                    <hr/>
+                    <h2><a target="_blank" class="stream_i" href="http://v.videohupu.com/nba">怒喷杜兰特！球迷连烧球衣</a><a target="_blank" class="stream_i" href="http://v.videohupu.com/nba/v808694.html"style="color:#AF4545"  >全能！西蒙斯首秀表现</a></h2>
+<h3><a target="_blank" class="stream_i" href="http://v.videohupu.com/nba/v808687.html">纳什风范！西蒙斯这传球手活绝了</a>|<a target="_blank" class="stream_i" href="http://v.videohupu.com/nba/v808690.html" >小腿痉挛！西蒙斯伤退离场</a></h3>
+<h3><a target="_blank" class="stream_i" href="http://v.videohupu.com/nba/v808686.html">手型如何？西蒙斯干拔首分</a>|<a target="_blank" class="stream_i" href="http://v.videohupu.com/nba/v808702.html" >说好的在一起！雷霆双少十大配合</a></h3>
+<h3><a target="_blank" class="stream_i" href="http://v.videohupu.com/nba/v808685.html">美如画！威金斯拉文变身万花筒</a>|<a target="_blank" class="stream_i" href="http://v.videohupu.com/nba/v808698.html" >卧槽啊！一分钟连帽科比四次</a></h3>
+                    <hr/>
+                    <h2><a target="_blank" class="photo_i" href="http://photo.hupu.com/nba">总决赛场均得分排行榜</a><a target="_blank" class="photo_i" href="http://photo.hupu.com/nba/p31969.html"style="color:#AF4545"  >吴悠对篮球的态度没毛病</a></h2>
+<h3><a target="_blank" class="photo_i" href="http://tu.hupu.com/training">大梦内线技巧教学，学生是科比</a>|<a target="_blank" class="photo_i" href="http://tu.hupu.com/gear" >Air Jordan 16年7月发售计划</a></h3>
+<h3><a target="_blank" class="photo_i" href="http://tu.hupu.com/fitness">看了这些之后，还敢吃快餐么</a>|<a target="_blank" class="photo_i" href="http://tu.hupu.com/sports" >史上最烂？里约奥运将有多差劲</a></h3>
+
+                </div>
+                <div class="clear"></div>
+                <div class="mt-8"></div>
+            </div>
+            <!--大头条结束-->
+
+
+            <script src="http://w3.hoopchina.com.cn/index/js/game.20121123.js?t=20121124" type="text/javascript"></script>
+            <!--左边结束 右边开始-->
+            <div class="sidebar">
+                <!--ad add by xjf 2013-01-22-->
+                <!--nab_index_linshi_240x200-->
+                                <!--ad end-->
+
+
+                <div class="boxscore" id="boxscore_2012">
+                    <ul class="tab">
+                        <li class="t-num1"><a href="javascript:;" onclick="game.switchLeague('NBA')" id="nba_btn" class="boxScorePage_on">NBA比赛</a></li>
+                        <li class="t-num2"><a href="javascript:;" onclick="game.switchLeague('CBA')" id="cba_btn" class="boxScorePage_off">CBA比赛</a></li>
+                    </ul>
+                    <div  id="boxScoreTab_div">
+                        <!--boxscore_index_default_start-->
+                        <div class="nbaBox" id="nbaBox">
+                            <div class="switchDiv">
+	<div class="subSwitch">
+		<a href="javascript:;" onclick="game.prevday();" class="prev" title="前一天">前一天</a>
+		<span class="curTime">07月05日</span>
+		<a href="javascript:;" onclick="game.nextday();" class="next" title="后一天">后一天</a>
+	</div>
+	<a class="r topad" href="http://goto.hupu.com/?a=goClick&id=12706" target="_blank">虎扑JRs周边</a>
+</div>
+<div class="listBox" id="nbaScoreTab_div0">
+		
+		<a href="http://goto.hupu.com/?a=goClick&id=11529" target="_blank"><img src="http://i2.hoopchina.com.cn/blogfile/201606/30/BbsImg146725630929100_240x200.jpg" class="todayNoName"></a>
+	
+	
+				</div>
+	<div class="bottom">
+		<a title="NBA赛程" target="_blank" href="http://g.hupu.com/nba/schedule">NBA赛程</a>
+				<font color="#FFFFFF"> | </font>
+		<a title="比赛直播" target="_blank" href="http://goto.hupu.com/?a=goClick&id=11529">比赛直播</a>
+			</div>
+                        </div>
+                        <!-----------cba_start 1.18 --------->
+                                                    <div class="cbaBox" id="cbaBox" style="display:none;"></div>
+                        
+                                                <!--boxscore_index_default_end-->
+                    </div>
+                                            <script type="text/javascript">game.init({'day':'0', 'nbaObject':'#nbaBox', 'cbaObject': '#cbaBox'})</script>
+                                    </div>
+                <!-- offline 2015-10-15 -->
+                
+                                    <div class="right_content right_content_shihuo">
+                        <div class="top">
+                            <h4><a target="_blank" href="http://www.shihuo.cn/?ad_from=lq&ad_page=sy&ad_pos=cp">识货每日爆款</a></h4>
+                        </div>
+                            <div class="starchina_info starchina_info_shihuo">
+            <div class="left">
+                <a href="http://www.shihuo.cn/article/detail/492.html" target="_blank"><img height="61" width="70" src="http://w2.hoopchina.com.cn/62/a6/77/62a6773d50ba51d8579dc8f98d361277001.jpg"></a>
+            </div>
+            <div class="zhaiyao zhaiyao_shihuo">
+                <h2><a target="_blank" href="http://www.shihuo.cn/article/detail/492.html" class="red">识货6月运动鞋销量权利榜</a></h2>
+                <p><a style="color: #9c9c9c !important;"  target="_blank" href="http://www.shihuo.cn/article/detail/492.html">想知道哪些球鞋最热？识货为大家盘点哪些球鞋成为了JRs们关注的热门鞋款……</a></p>
+            </div>
+            <div class="clear"></div>
+            <ul style="color:#bbb;">
+                                                <li>
+                    <a target="_blank" href="http://www.shihuo.cn/youhui/208025.html">实战款！阿迪利拉德二代银泰网629元包邮</a>
+                </li>
+                                                                <li>
+                    <a target="_blank" href="http://www.shihuo.cn/youhui/207410.html">科比中国行同款T恤：耐克官网火热促销中</a>
+                </li>
+                                                                <li>
+                    <a target="_blank" href="http://www.shihuo.cn/haitao/buy/46589-306837.html">神价速抢！UA Micro G 男子跑鞋仅￥330</a>
+                </li>
+                                                                <li>
+                    <a target="_blank" href="http://t.shihuo.cn/33.html">NBAstore2016骑士总冠军周边免费代购</a>
+                </li>
+                                            </ul>
+    </div>
+  <div style="padding:0 6px;text-align:left;" class="bottom">
+               <a target="_blank" href="http://www.shihuo.cn/tejia">海淘今日特价！精选热门商品下单立减</a>
+  </div>                    </div>
+                
+
+                
+                                    <!-- NBA数据中心 开始 -->
+                    <!--index_nba_data_center_start--><div style="display:;" class="space_content">
+<div class="top">
+    <h4 class="h4_qyjr">球员今日</h4>
+</div>
+<div class="center">
+
+
+<div >
+
+    <div id="data_div0" style="display: block;" sid="5|200|0|">
+        <div class="tab" id="data_menu">
+            <a class="sPage_on" id="shujutab_btn0" onmouseover="tabit('shujutab',0,6,'sPage_')">得分</a>
+            <a class="sPage_off" id="shujutab_btn1" onmouseover="tabit('shujutab',1,6,'sPage_')">篮板</a>
+            <a class="sPage_off" id="shujutab_btn2" onmouseover="tabit('shujutab',2,6,'sPage_')">助攻</a>
+            <a class="sPage_off" id="shujutab_btn3" onmouseover="tabit('shujutab',3,6,'sPage_')">抢断</a>
+            <a class="sPage_off" id="shujutab_btn4" onmouseover="tabit('shujutab',4,6,'sPage_')">三分</a>
+            <a class="sPage_off" id="shujutab_btn5" onmouseover="tabit('shujutab',5,6,'sPage_')">盖帽</a>
+        </div>
+               <div id="shujutab_div0" style='display: block;' >
+            <div class="zhanji">
+                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                    <tr align="left">
+                        <th scope="col">&nbsp;</th>
+                        <th width="42%" scope="col">姓名</th>
+                        <th width="30%" scope="col">球队</th>
+                        <th width="28%" scope="col">今日数据</th>
+                    </tr>
+                                       </tbody>
+                </table>
+            </div>
+        </div>
+                <div id="shujutab_div1" style='display: none;' >
+            <div class="zhanji">
+                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                    <tr align="left">
+                        <th scope="col">&nbsp;</th>
+                        <th width="42%" scope="col">姓名</th>
+                        <th width="30%" scope="col">球队</th>
+                        <th width="28%" scope="col">今日数据</th>
+                    </tr>
+                                       </tbody>
+                </table>
+            </div>
+        </div>
+                <div id="shujutab_div2" style='display: none;' >
+            <div class="zhanji">
+                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                    <tr align="left">
+                        <th scope="col">&nbsp;</th>
+                        <th width="42%" scope="col">姓名</th>
+                        <th width="30%" scope="col">球队</th>
+                        <th width="28%" scope="col">今日数据</th>
+                    </tr>
+                                       </tbody>
+                </table>
+            </div>
+        </div>
+                <div id="shujutab_div3" style='display: none;' >
+            <div class="zhanji">
+                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                    <tr align="left">
+                        <th scope="col">&nbsp;</th>
+                        <th width="42%" scope="col">姓名</th>
+                        <th width="30%" scope="col">球队</th>
+                        <th width="28%" scope="col">今日数据</th>
+                    </tr>
+                                       </tbody>
+                </table>
+            </div>
+        </div>
+                <div id="shujutab_div4" style='display: none;' >
+            <div class="zhanji">
+                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                    <tr align="left">
+                        <th scope="col">&nbsp;</th>
+                        <th width="42%" scope="col">姓名</th>
+                        <th width="30%" scope="col">球队</th>
+                        <th width="28%" scope="col">今日数据</th>
+                    </tr>
+                                       </tbody>
+                </table>
+            </div>
+        </div>
+                <div id="shujutab_div5" style='display: none;' >
+            <div class="zhanji">
+                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                    <tr align="left">
+                        <th scope="col">&nbsp;</th>
+                        <th width="42%" scope="col">姓名</th>
+                        <th width="30%" scope="col">球队</th>
+                        <th width="28%" scope="col">今日数据</th>
+                    </tr>
+                                       </tbody>
+                </table>
+            </div>
+        </div>
+            Orz，今天的比赛还没有开始    </div>
+</div>
+</div>
+<div id="data_button" class="bottom">
+    <a target="_blank" href="http://g.hupu.com/nba/standing">2015-2016 NBA战绩排行榜</a>
+</div>
+</div>
+
+
+<div  class="space_content">
+<div class="top">
+    <h4 class="h4_qdzj">球队战绩</h4>
+</div>
+<div class="center">
+
+
+
+<div  id="1|200|0|">
+<div class="tab"><a class="sPage_on" id="zhanjitab_btn0" onmouseover="tabit('zhanjitab',0,2,'sPage_')">东部</a><a class="sPage_off" id="zhanjitab_btn1" onmouseover="tabit('zhanjitab',1,2,'sPage_')">西部</a></div>
+<div id="zhanjitab_div0">
+    <div class="zhanji">
+        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody>
+            <tr align="left">
+                <th width="12%" scope="col">&nbsp;</th>
+                <th width="30%" scope="col">队名</th>
+                <th width="12%" scope="col">胜</th>
+                <th width="12%" scope="col">负</th>
+                <th width="17%" scope="col">近况</th>
+                <th width="18%" scope="col">胜场差</th>
+            </tr>
+                        <tr >
+                <td><div class="num1">1</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/cavaliers">骑士</a></td>
+                <td>57</td>
+                <td>25</td>
+                <td>1连败</td>
+                <td align="center">0</td>
+            </tr>
+                         <tr >
+                <td><div class="num2">2</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/raptors">猛龙</a></td>
+                <td>56</td>
+                <td>26</td>
+                <td>4连胜</td>
+                <td align="center">1</td>
+            </tr>
+                         <tr >
+                <td><div class="num3">3</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/heat">热火</a></td>
+                <td>48</td>
+                <td>34</td>
+                <td>1连败</td>
+                <td align="center">9</td>
+            </tr>
+                         <tr >
+                <td><div class="num4">4</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/hawks">老鹰</a></td>
+                <td>48</td>
+                <td>34</td>
+                <td>2连败</td>
+                <td align="center">9</td>
+            </tr>
+                         <tr >
+                <td><div class="num5">5</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/celtics">凯尔特人</a></td>
+                <td>48</td>
+                <td>34</td>
+                <td>1连胜</td>
+                <td align="center">9</td>
+            </tr>
+                         <tr >
+                <td><div class="num6">6</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/hornets">黄蜂</a></td>
+                <td>48</td>
+                <td>34</td>
+                <td>2连胜</td>
+                <td align="center">9</td>
+            </tr>
+                         <tr >
+                <td><div class="num7">7</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/pacers">步行者</a></td>
+                <td>45</td>
+                <td>37</td>
+                <td>3连胜</td>
+                <td align="center">12</td>
+            </tr>
+                         <tr >
+                <td><div class="num8">8</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/pistons">活塞</a></td>
+                <td>44</td>
+                <td>38</td>
+                <td>1连胜</td>
+                <td align="center">13</td>
+            </tr>
+                         <tr >
+                <td><div class="num9">9</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/bulls">公牛</a></td>
+                <td>42</td>
+                <td>40</td>
+                <td>3连胜</td>
+                <td align="center">15</td>
+            </tr>
+                         <tr >
+                <td><div class="num10">10</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/wizards">奇才</a></td>
+                <td>41</td>
+                <td>41</td>
+                <td>3连胜</td>
+                <td align="center">16</td>
+            </tr>
+                         <tr >
+                <td><div class="num11">11</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/magic">魔术</a></td>
+                <td>35</td>
+                <td>47</td>
+                <td>1连败</td>
+                <td align="center">22</td>
+            </tr>
+                         <tr >
+                <td><div class="num12">12</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/bucks">雄鹿</a></td>
+                <td>33</td>
+                <td>49</td>
+                <td>2连败</td>
+                <td align="center">24</td>
+            </tr>
+                         <tr >
+                <td><div class="num13">13</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/knicks">尼克斯</a></td>
+                <td>32</td>
+                <td>50</td>
+                <td>2连败</td>
+                <td align="center">25</td>
+            </tr>
+                         <tr >
+                <td><div class="num14">14</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/nets">篮网</a></td>
+                <td>21</td>
+                <td>61</td>
+                <td>10连败</td>
+                <td align="center">36</td>
+            </tr>
+                         <tr >
+                <td><div class="num15">15</div></td>
+                <td><a target="_blank" href="http://g.hupu.com/nba/teams/76ers">76人</a></td>
+                <td>10</td>
+                <td>72</td>
+                <td>4连败</td>
+                <td align="center">47</td>
+            </tr>
+                         </tbody>
+        </table>
+    </div>
+</div>
+<div id="zhanjitab_div1" style="display: none;">
+    <div class="zhanji">
+        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody>
+            <tr align="left">
+                <th width="12%" scope="col">&nbsp;</th>
+                <th width="30%" scope="col">队名</th>
+                <th width="12%" scope="col">胜</th>
+                <th width="12%" scope="col">负</th>
+                <th width="17%" scope="col">近况</th>
+                <th width="18%" scope="col">胜场差</th>
+            </tr>
+
+                            <tr >
+                    <td><div class="num1">1</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/warriors">勇士</a></td>
+                    <td>73</td>
+                    <td>9</td>
+                    <td>4连胜</td>
+                    <td align="center">0</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num2">2</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/spurs">马刺</a></td>
+                    <td>67</td>
+                    <td>15</td>
+                    <td>2连胜</td>
+                    <td align="center">6</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num3">3</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/thunder">雷霆</a></td>
+                    <td>55</td>
+                    <td>27</td>
+                    <td>1连败</td>
+                    <td align="center">18</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num4">4</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/clippers">快船</a></td>
+                    <td>53</td>
+                    <td>29</td>
+                    <td>1连败</td>
+                    <td align="center">20</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num5">5</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/blazers">开拓者</a></td>
+                    <td>44</td>
+                    <td>38</td>
+                    <td>1连胜</td>
+                    <td align="center">29</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num6">6</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/mavericks">小牛</a></td>
+                    <td>42</td>
+                    <td>40</td>
+                    <td>1连败</td>
+                    <td align="center">31</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num7">7</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/grizzlies">灰熊</a></td>
+                    <td>42</td>
+                    <td>40</td>
+                    <td>4连败</td>
+                    <td align="center">31</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num8">8</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/rockets">火箭</a></td>
+                    <td>41</td>
+                    <td>41</td>
+                    <td>3连胜</td>
+                    <td align="center">32</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num9">9</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/jazz">爵士</a></td>
+                    <td>40</td>
+                    <td>42</td>
+                    <td>2连败</td>
+                    <td align="center">33</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num10">10</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/kings">国王</a></td>
+                    <td>33</td>
+                    <td>49</td>
+                    <td>1连败</td>
+                    <td align="center">40</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num11">11</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/nuggets">掘金</a></td>
+                    <td>33</td>
+                    <td>49</td>
+                    <td>2连败</td>
+                    <td align="center">40</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num12">12</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/pelicans">鹈鹕</a></td>
+                    <td>30</td>
+                    <td>52</td>
+                    <td>3连败</td>
+                    <td align="center">43</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num13">13</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/timberwolves">森林狼</a></td>
+                    <td>29</td>
+                    <td>53</td>
+                    <td>1连胜</td>
+                    <td align="center">44</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num14">14</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/suns">太阳</a></td>
+                    <td>23</td>
+                    <td>59</td>
+                    <td>1连胜</td>
+                    <td align="center">50</td>
+                </tr>
+                                    <tr >
+                    <td><div class="num15">15</div></td>
+                    <td><a target="_blank" href="http://g.hupu.com/nba/teams/lakers">湖人</a></td>
+                    <td>17</td>
+                    <td>65</td>
+                    <td>1连胜</td>
+                    <td align="center">56</td>
+                </tr>
+                    
+            </tbody>
+        </table>
+    </div>
+</div>
+</div>
+<!--球员今日-->
+</div>
+<div id="data_button" class="bottom">
+    <a target="_blank" href="http://g.hupu.com/nba/standing">2015-2016 NBA战绩排行榜</a>
+</div>
+</div>
+<!--index_nba_data_center_end-->
+                    <!-- NBA数据中心 结束 -->
+                    <!--            <div class="h_8"></div>            -->
+                
+
+                                                <!--            	<div class="right_content" >
+                                <div class="top"><h4 class="nba-NBAWorldCup-hd" >2014世界杯</h4></div> -->
+                                <!--	       </div>-->
+                                <!-- 自由球员下线 -->
+                                
+                
+                <!--不负夏日-->
+                <!--	   <div class="nba-ad240-100">
+                                <div id='div-gpt-ad-1442459674416-4' style='height:100px; width:240px; overflow:hidden;'>
+                                    <script type='text/javascript'>
+                                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-4'); });
+                                    </script>
+                                </div>
+                            </div>-->
+
+                <!-- nbaindex_240x200_right_1 -->
+                    <div id='div-gpt-ad-1442459674416-14' style='height:200px; width:240px; overflow:hidden;margin-bottom: 8px;'>
+                        <script type='text/javascript'>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-14'); });
+                        </script>
+                    </div>
+                <!-- 新的视频栏目  -->
+                <div class="right_content" >
+                    <div class="top">
+                        <h4 class="e3"><a href="http://v.videohupu.com/nba/" title="NBA视频" target="_blank"></a></h4>
+                    </div>
+                    <div class="center">
+                        <div class="shuju_tab">
+						<span class="left">
+						<a class="tvPage_on" id="videotab_btn0" onmouseover="tabit('videotab',0,2,'tvPage_')">24小时内最热</a>
+						<a class="tvPage_off" id="videotab_btn1" onmouseover="tabit('videotab',1,2,'tvPage_')">最新推荐视频</a>
+						</span>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+                        <ul class="stream_tv" id="videotab_div0">
+                            <li class="line h80">
+                                <dd><a href="http://v.videohupu.com/nba/v808575.html" target="_blank"><img width="91" height="53" src="http://img1.hupucdn.com/video/hoopchina8085751467340019_2016-07-01.png?imageView/1/w/120/h/70" /><span class="iconplay">&nbsp;</span></a></dd>
+                                <dd class="texttv"><a href="http://v.videohupu.com/nba/v808575.html" target="_blank" title="杜兰特十佳球：神级拉杆惊天绝杀" >杜兰特十佳球：神级拉杆惊天绝杀</a>
+                                    <br /><span class="hui">播放:25251</span>
+                                </dd>
+                                <div class="clear"></div>
+                            </li>
+                            <div class="clear"></div>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808666.html" target="_blank" title="气场都能杀死对手！大本生涯十大火锅">气场杀人！21世纪防守最恐怖球员</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808676.html" target="_blank" title="一次看个够！德鲁大叔至今全部四季合集">一次看个够！德鲁大叔至今全部四季合集</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808694.html" target="_blank" title="传球风骚！状元西蒙斯夏联首秀10分8板5助表现">传球骚！本西蒙斯首秀10分8板5助</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808679.html" target="_blank" title="真妖孽！白巧克力十大神奇妙传表演">真妖孽！他是史上打球最华丽控卫</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808687.html" target="_blank" title="纳什风范！本西蒙斯绝妙击地助攻">纳什风范！西蒙斯这传球手活绝了</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808686.html" target="_blank" title="状元首次得分！本西蒙斯干拔跳投得手">手型如何？西蒙斯干拔跳投首分</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808678.html" target="_blank" title="变态无解！杜兰特生涯十大变向过人">变态无解！杜兰特这招能杀死人啊</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808672.html" target="_blank" title="发生了什么？邓肯惨遭波波脱衣吊打">发生了什么？邓肯遭波波脱衣吊打</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808690.html" target="_blank" title="小腿肌肉痉挛！本西蒙斯76人首秀受伤">小腿痉挛！本西蒙斯76人首秀受伤</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808683.html" target="_blank" title="十四年弹指岁月！吉诺比利新秀赛季震撼演出">十四年弹指岁月！吉诺比利新秀赛季震撼演出</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808680.html" target="_blank" title="最惨背景帝堪比邓肯！穆大叔生涯20大被隔扣时刻">好惨！穆大叔生涯20大被隔扣时刻</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808671.html" target="_blank" title="又毁篮球梦！唐斯训练营单挑暴扣羞辱小球迷">又毁了！唐斯单挑暴扣羞辱小球迷</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808677.html" target="_blank" title="肆意飙分的岁月！科比07年对灰熊怒砍60分高清剪辑">肆意飙分岁月！巅峰期科比简直了</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808692.html" target="_blank" title="杜兰特加盟勇士！球迷连烧球衣粗暴脏话问候">杜兰特加盟勇士！球迷连烧球衣粗暴脏话问候</a></li>
+                                                    </ul>
+                        <ul class="stream_tv" id="videotab_div1" style="display:none;">
+                            <li class="line h80">
+                                <dd><a href="http://v.videohupu.com/nba/v808712.html" target="_blank" > <img width="91" height="53" src="http://img1.hupucdn.com/video/hoopchina8087121467692853_2016-07-05.jpg?imageView/1/w/120/h/70" /><span class="iconplay">&nbsp;</span></a></dd>
+                                <dd class="texttv"><a href="http://v.videohupu.com/nba/v808712.html" target="_blank" title="空接怒扣！杰伦布朗夏联对76人砍16分表现">空接怒扣！杰伦布朗夏联对76人砍16分表现</a>
+                                    <br /><span class="hui">46分钟前</span>
+                                </dd>
+                                <div class="clear"></div>
+                            </li>
+                            <div class="clear"></div>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808711.html" target="_blank" title="恐怖杀手！杜兰特16赛季无解进攻集锦">恐怖杀手！杜兰特16赛季无解进攻集锦</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808710.html" target="_blank" title="疯砍50分9助5断！乔丹无解表演杀死绿衫军">疯砍50分9助5断！乔丹无解表演杀死绿</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808709.html" target="_blank" title="新赛季勇士会多可怕？杜兰特2016赛季进攻剪辑">新赛季勇士会多可怕？杜兰特2016赛季</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808708.html" target="_blank" title="2016奥兰多夏联爵士vs马刺视频集锦(凯尔安德森砍25+7)">2016奥兰多夏联爵士vs马刺视频集锦(凯</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808707.html" target="_blank" title="君临天下！勒布朗生涯血腥追帽瞬间">君临天下！勒布朗生涯血腥追帽瞬间</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808706.html" target="_blank" title="NBA十大追身大帽：霍华德恐怖抓球小土豆凌辱詹皇">NBA十大追身大帽：霍华德恐怖抓球小土</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808705.html" target="_blank" title="加盟勇士！球迷制作短片欢迎杜兰特">加盟勇士！球迷制作短片欢迎杜兰特</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808704.html" target="_blank" title="打球别砸脸！吉诺比利怒给裁判T">打球别砸脸！吉诺比利怒给裁判T</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808703.html" target="_blank" title="死亡晃倒！保罗这变向过人神似艾弗森">死亡晃倒！保罗这变向过人神似艾弗森</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808702.html" target="_blank" title="说好的一起终老呢！雷霆双少十大逆天配合">说好的一起终老呢！雷霆双少十大逆天</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808701.html" target="_blank" title="不是地球人！巅峰勒布朗20大凶残隔扣">不是地球人！巅峰勒布朗20大凶残隔扣</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808700.html" target="_blank" title="太恐怖了！巅峰科比放现在简直无法想象">太恐怖了！巅峰科比放现在简直无法想</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808699.html" target="_blank" title="为什么跪着看球？詹宁斯这记过人晃得库里怀疑人生">为什么跪着看球？詹宁斯这记过人晃得</a></li>
+                                                            <li class="tv_icon tvnumbg pad_left line"><a href="http://v.videohupu.com/nba/v808698.html" target="_blank" title="一分钟连帽科比四次！也只有他做到了">一分钟连帽科比四次！也只有他做到了</a></li>
+                                                    </ul>
+                    </div>
+                    <div class="bottom" style="color:#bbb;">
+                        <a href="http://v.videohupu.com/nba/tag/科比" class="sPage_off" target="_blank" title="科比">科比</a>
+                        <a href="http://v.videohupu.com/nba/tag/乔丹" class="sPage_off" target="_blank" title="乔丹">乔丹</a>
+                        <a href="http://v.videohupu.com/nba/tag/麦迪" class="sPage_off" target="_blank" title="麦迪">麦迪</a>
+                        <a href="http://v.videohupu.com/nba/tag/教学" class="sPage_off" target="_blank" title="教学">教学</a>|&nbsp;&nbsp;<a href="http://v.videohupu.com/nba" class="sPage_off" target="_blank" title="nba视频">视频中心&raquo;</a>
+                    </div>
+                </div>
+
+                <div class="nba-ad240-200">
+                    <div id='div-gpt-ad-1442459674416-5' style='height:200px; width:240px; overflow:hidden;'>
+                        <script type='text/javascript'>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-5'); });
+                        </script>
+                    </div>
+                </div>
+                <div class="h_8"></div>
+
+                <script src="http://w3.hoopchina.com.cn/index/js/index-v3.js?v=201605101927" type="text/javascript"></script>
+                <script type="text/javascript">
+                    /*图片延迟加载*/
+                    $(".photo img").lazyload({
+                        placeholder : "http://w3.hoopchina.com.cn/index/images/grey.png",
+                        effect : "fadeIn",
+                        threshold  : 400
+                    });
+                </script>
+                <div class="ad361-240-240" id="ad200-240_2">
+                    <div class="top"></div>
+                    <div class="center">
+                        <div id='div-gpt-ad-1442459674416-6' style='height:240px; width:240px; overflow:hidden;'>
+                            <script type='text/javascript'>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-6'); });
+                            </script>
+                        </div>
+                    </div>
+                    <div class="bottom"></div>
+                </div>
+
+                <!-- 投票 -->
+                <div class="right_content">
+                    <div class="top">
+                        <h4 class="e4"><a href="http://my.hupu.com/public/note_new?t=vote" target="_blank">投票</a></h4>
+                    </div>
+
+                    
+<div class='center'><div class='toupiao list'><strong>阿杜加盟，下个赛季的勇士能夺得总冠军吗？</strong><ul><input type=hidden id=voteclass292190 value='0'/><li><input type="radio" value="1" id="vote3235_1"  name="vote3235"/> <label for="vote3235_1">能</label></li><li><input type="radio" value="2" id="vote3235_2"  name="vote3235"/> <label for="vote3235_2">不能</label></li></ul ><span id="vote_info"><input type="button" onclick=update_vote_www(292190,3235,3972341,"thadyo")  value="投票" name="submit" class="btn2"/></span><span id="vote_message"></span>&nbsp;&nbsp;<a class="btn-viewResults" href="http://my.hupu.com/thadyo/note/3972341.html" target="_blank">查看结果&raquo;</a><div class="clear"></div></div><input type="hidden" name="vote_url" id="vote_url" value="http://my.hupu.com/thadyo/note/3972341.html"></div>
+                    <div class="bottom"><a href="http://my.hupu.com/public/note-nba-new?t=vote" target="_blank">查看更多投票&raquo;</a></div>
+                    <div class="tp_bg"></div>
+                </div>
+                <!-- 投票结束 -->
+                <!--比赛中心结束-->
+                <div class="right_content rightYouGouCon">
+                    <div class="top"></div>
+                    <div class="center">
+
+
+                        <script type="text/javascript">//<![CDATA[
+                            _acK({aid:67739,format:0,mode:1,gid:1,serverbaseurl:"afp.csbew.com/"});
+
+                            //]]></script>
+                    </div>
+                    <div class="b_bottom"></div>
+                </div>
+
+                <div class="nba-ad240-100">
+                    <div id='div-gpt-ad-1442459674416-7' style='height:100px; width:240px; overflow:hidden;'>
+                        <script type='text/javascript'>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-7'); });
+                        </script>
+                    </div>
+                </div>
+
+                <!--灵光一闪 START-->
+                <div class="right_content">
+
+                    <div class="top">
+                        <h4 class="e9">灵光一闪</h4>
+                    </div>
+                    <div class="center">
+                        <div class="lingguang" id="lgys">
+                            <!--lgysstart--><div class=list>
+<div class=reply>山鲁佐德和我与猫 评《【JRs字幕】本西蒙斯上肥伦秀，两人疯狂吐槽詹姆斯选秀大会穿衣|西蒙斯有巨星相 》</div>
+<div class=zhaiyao><a onclick="javascript:pageTracker._trackPageview('/from/www-liang-http://voice.hupu.com/nba/1557733.html--詹韦保瓜波 评 GQ年度20大型男运动员：詹姆斯居首')" href="http://bbs.hupu.com/16669689.html" target=_blank> 
+穿衣不觉问威少，发型不觉问安猪。
+</p></a></div></div>
+
+<div class=list>
+<div class=reply>纽约尼克斯官网  评 《【美国JRs之声】火箭8000万签安德森，以攻代守彻底极端化？|再签戈登，彻底弃防？ 》</div>
+<div class=zhaiyao><a onclick="javascript:pageTracker._trackPageview('/from/www-liang-http://voice.hupu.com/nba/1557733.html--詹韦保瓜波 评 GQ年度20大型男运动员：詹姆斯居首')" href="http://bbs.hupu.com/16669303.html" target=_blank> 
+防守死亡五漏。</p></a></div></div>
+
+<div class=list>
+<div class=reply>有两下散手  评《[流言板]鲨鱼：想返老还童，这样就能拿大合同了  》</div>
+<div class=zhaiyao><a onclick="javascript:pageTracker._trackPageview('/from/www-liang-http://voice.hupu.com/nba/1557448.html--16浩爱人188 评 加索尔：科比和杰克逊他们才真的懂我')  href="http://bbs.hupu.com/16676728.html" target=_blank>
+大姚一听，立马打给莫总：还缺人不？</p></a></div></div>
+
+<div class=list>
+<div class=reply>teyousheng评《芝加哥UA旗舰店偶遇小学生 》</div>
+<div class=zhaiyao><a onclick="javascript:pageTracker._trackPageview('/from/www-liang-http://voice.hupu.com/nba/1557733.html--詹韦保瓜波 评 GQ年度20大型男运动员：詹姆斯居首')" href="http://bbs.hupu.com/16668798.html" target=_blank> 
+我库表示一个夏天，突然联盟里比他有钱的多了一万个，他要啥保镖。</p></a></div></div>
+
+<div class=list>
+<div class=reply>核芯同学  评《身高1.75在野球场相当于NBA什么位置 》</div>
+<div class=zhaiyao><a onclick="javascript:pageTracker._trackPageview('/from/www-liang-http://voice.hupu.com/nba/1557448.html--16浩爱人188 评 加索尔：科比和杰克逊他们才真的懂我') href="http://bbs.hupu.com/16645814.html" target=_blank>
+如果和小学生打，你就是全能中锋了。</p></a></div></div>
+
+<div class=flasthPage>    <a href=javascript:;  onclick=change_lgys(2) class=lg_down>下一页</a></div><!--lgysend-->
+                        </div>
+                    </div>
+                    <div class="b_bottom"></div>
+                </div>
+                <!--灵光一闪 END-->
+
+
+                <div class="ad200-200" id="ad_taobao">
+                    <div class="top"></div>
+                    <div class="center">
+                        <div id='div-gpt-ad-1442459674416-8' style='height:200px; width:200px; overflow:hidden;text-align: center;margin: 0 auto;'>
+                            <script type='text/javascript'>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-8'); });
+                            </script>
+                        </div>
+                    </div>
+                    <div class="bottom"></div>
+                </div>
+                <!-- nba_index_kaluli_240x240 -->
+                <div id='div-gpt-ad-1442459674416-12' style='height:240px; width:240px; overflow:hidden;'>
+                    <script type='text/javascript'>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-12'); });
+                    </script>
+                </div>
+                <!--右边模块结束-->
+                <div>
+                    <div class="lb_bottom">
+                    </div>
+
+                </div>
+
+
+            </div>
+
+		 <!--左边开始-->
+    	<div class="container">
+
+            <div class="nba-ad728-60 mb-5">
+                <iframe width="728" height="90" scrolling="no" frameborder="0" allowtransparency="true" hspace="0" vspace="0" marginheight="0" marginwidth="0" src="http://t1.hoopchina.com.cn/topn-v2.html#!zone-351393"></iframe>
+            </div>
+            <div class="mt-8"></div>
+
+            <!--上部开始-->
+            <div class="container_top">
+                <!--上左-->
+            	<div class="team">
+                	<!--球队开始-->
+                    <div class="NBA">
+                        <div class="top"></div>
+                        <div class="center">
+                        <div class="l_bg">
+
+                                                                <!--rockets-->
+                                    <div class="nba-hd-B">
+                                        <h2>
+                                            <!--                                               <a href="http://nba.hupu.com/teams/heat">
+                                                 <img usemap="#wade" src="http://i1.hoopchina.com.cn/u/1212/27/549/16351549/09d4e931.png" title="热火" alt="热火">
+                                                 <map id="wade" name="wade">
+                                                   <area target="_blank" href="http://voice.hupu.com/nba/player/wade" coords="57,0,87,16" shape="rect">
+                                                 </map>
+                                               </a>-->
+                                                                                           <a href="http://g.hupu.com/nba/teams/cavaliers" target="_blank"><img src="http://w1.hoopchina.com.cn/7e/43/db/7e43dbb3a948d66b3c3535cfe7fcaf18001.jpg" title="骑士" alt="骑士" /></a>
+                                                                                    </h2>
+                                        <div class="hdLink">
+                                                                                            <a target="_blank" title="骑士论坛" href="http://bbs.hupu.com/cavaliers">论坛</a> |                                                                                            <a target="_blank" title="骑士视频" href="http://v.videohupu.com/nba/new/Cavaliers">视频</a> |                                                                                            <a target="_blank" title="骑士直播" href="http://v.videohupu.com/nba/tv/">直播</a> |                                                                                            <a target="_blank" title="骑士新闻" href="http://voice.hupu.com/o/cavaliers">新闻</a>                                                                                    </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="list">
+                                        <div class="left team1">
+                                            <a href="http://bbs.hupu.com/16675375.html" target="_blank">
+                                                <img width="90px" height="110px" src="http://w3.hoopchina.com.cn/6e/17/06/6e1706dfaa7ac00925a0bb65eaf903b6001.jpg" />
+                                            </a>
+                                        </div>
+                            	        <div class="zhaiyao">
+                                            <h5>
+                                                <a href="http://bbs.hupu.com/16675375.html" target="_blank">詹姆斯、保罗和韦德一起度假</a>
+                                            </h5>
+                                            <p>近期，詹姆斯和好友韦德保罗带着老婆在西班牙享受悠闲假。</p>
+                           	            </div>
+                                        <div class="clear"></div>
+                                            <ul>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16677646.html" target="_blank">卢：奥巴马离任前访问白宫 </a>
+                                                                                                        <a  href="http://bbs.hupu.com/16671681.html" target="_blank">骑士5400万领衔奢侈税榜单</a>
+                                                                                                    </li>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16673313.html" target="_blank"><em class="stream_i">字幕：骑士夺冠纪录片</em></a>
+                                                                                                        <a  href="http://bbs.hupu.com/16675223.html" target="_blank">杰弗森尚未决定留在骑士</a>
+                                                                                                    </li>
+                                            </ul>
+                                                                            </div>
+                                    <!--rockets 结束-->
+                            <hr />
+
+                                                                <!--lakers-->
+                                    <div class="nba-hd-B">
+                                        <h2>
+                                            <!--                                               <a href="http://nba.hupu.com/teams/heat">
+                                                 <img usemap="#wade" src="http://i1.hoopchina.com.cn/u/1212/27/549/16351549/09d4e931.png" title="热火" alt="热火">
+                                                 <map id="wade" name="wade">
+                                                   <area target="_blank" href="http://voice.hupu.com/nba/player/wade" coords="57,0,87,16" shape="rect">
+                                                 </map>
+                                               </a>-->
+                                                                                           <a href="http://g.hupu.com/nba/teams/rockets" target="_blank"><img src="http://w2.hoopchina.com.cn/88/8b/f5/888bf5ea64a40bc9367d4abfa98abf9c001.jpg" title="火箭" alt="火箭" /></a>
+                                                                                    </h2>
+                                        <div class="hdLink">
+                                                                                            <a target="_blank" title="火箭论坛" href="http://bbs.hupu.com/rockets">论坛</a> |                                                                                            <a target="_blank" title="火箭视频" href="http://bbs.hupu.com/rockets">视频</a> |                                                                                            <a target="_blank" title="火箭直播" href="http://nba.hupu.com/tv">直播</a> |                                                                                            <a target="_blank" title="火箭新闻" href="http://voice.hupu.com/o/rockets">新闻</a>                                                                                    </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="list">
+                                        <div class="left team1">
+                                            <a href="http://bbs.hupu.com/16691866.html" target="_blank">
+                                                <img width="90px" height="110px" src="http://w4.hoopchina.com.cn/d3/da/f5/d3daf5258b7dc931afd1a18bf8632ea1001.jpg" />
+                                            </a>
+                                        </div>
+                            	        <div class="zhaiyao">
+                                            <h5>
+                                                <a href="http://bbs.hupu.com/16691866.html" target="_blank">诺埃尔？美火蜜热议如何补强中锋 </a>
+                                            </h5>
+                                            <p>火箭中锋位置上只有卡佩拉和新秀齐纳努是远远不够的。</p>
+                           	            </div>
+                                        <div class="clear"></div>
+                                            <ul>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16691374.html" target="_blank"><em class="photo_i">无情颜射戈登这是谁？</em></a>
+                                                                                                        <a  href="http://bbs.hupu.com/16688756.html" target="_blank">火箭有意中锋德维恩-戴德蒙</a>
+                                                                                                    </li>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16678732.html" target="_blank">哈勒尔野球场运球过人暴扣</a>
+                                                                                                        <a  href="http://bbs.hupu.com/16688452.html" target="_blank">戈登：我跟哈登会带来麻烦</a>
+                                                                                                    </li>
+                                            </ul>
+                                                                            </div>
+                                    <!--lakers 结束-->
+                            <hr />
+
+                                                                <!--cavaliers-->
+                                    <div class="nba-hd-B">
+                                        <h2>
+                                            <!--                                               <a href="http://nba.hupu.com/teams/heat">
+                                                 <img usemap="#wade" src="http://i1.hoopchina.com.cn/u/1212/27/549/16351549/09d4e931.png" title="热火" alt="热火">
+                                                 <map id="wade" name="wade">
+                                                   <area target="_blank" href="http://voice.hupu.com/nba/player/wade" coords="57,0,87,16" shape="rect">
+                                                 </map>
+                                               </a>-->
+                                                                                           <a href="http://g.hupu.com/nba/teams/warriors" target="_blank"><img src="http://w4.hoopchina.com.cn/07/b3/d2/07b3d28b7e67ab7c1455f2cba86cc6b6002.png" title="勇士" alt="勇士" /></a>
+                                                                                    </h2>
+                                        <div class="hdLink">
+                                                                                            <a target="_blank" title="勇士论坛" href="http://bbs.hupu.com/warriors">论坛</a> |                                                                                            <a target="_blank" title="勇士视频" href="http://v.videohupu.com/nba/new/warriors">视频</a> |                                                                                            <a target="_blank" title="勇士直播" href="http://v.opahnet.com/nba/tv/">直播</a> |                                                                                            <a target="_blank" title="勇士新闻" href="http://voice.hupu.com/o/warriors">新闻</a>                                                                                    </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="list">
+                                        <div class="left team1">
+                                            <a href="http://bbs.hupu.com/16685625.html" target="_blank">
+                                                <img width="90px" height="110px" src="http://w2.hoopchina.com.cn/76/8c/5f/768c5fd7fbc319382a2a970804fbbbf5001.jpg" />
+                                            </a>
+                                        </div>
+                            	        <div class="zhaiyao">
+                                            <h5>
+                                                <a href="http://bbs.hupu.com/16685625.html" target="_blank">重磅！杜兰特宣布加盟勇士</a>
+                                            </h5>
+                                            <p>杜兰特将会和勇士签订一份为期2年，总价值5430万的合同。</p>
+                           	            </div>
+                                        <div class="clear"></div>
+                                            <ul>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16688618.html" target="_blank">帕楚里亚与勇士达成协议</a>
+                                                                                                        <a  href="http://bbs.hupu.com/16690820.html" target="_blank">多名自由球员愿底薪莱勇士</a>
+                                                                                                    </li>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16687717.html" target="_blank">勇士与小牛达成博古特交易</a>
+                                                                                                        <a  href="http://bbs.hupu.com/16688213.html" target="_blank">KD出走：一个纯篮球决定</a>
+                                                                                                    </li>
+                                            </ul>
+                                                                            </div>
+                                    <!--cavaliers 结束-->
+                            <hr />
+
+                                                                <!--heat-->
+                                    <div class="nba-hd-B">
+                                        <h2>
+                                            <!--                                               <a href="http://nba.hupu.com/teams/heat">
+                                                 <img usemap="#wade" src="http://i1.hoopchina.com.cn/u/1212/27/549/16351549/09d4e931.png" title="热火" alt="热火">
+                                                 <map id="wade" name="wade">
+                                                   <area target="_blank" href="http://voice.hupu.com/nba/player/wade" coords="57,0,87,16" shape="rect">
+                                                 </map>
+                                               </a>-->
+                                                                                           <a href="http://g.hupu.com/nba/teams/spurs" target="_blank"><img src="http://w3.hoopchina.com.cn/38/5e/be/385ebea5775a366d1872686c245504fa001.jpg" title="马刺" alt="马刺" /></a>
+                                                                                    </h2>
+                                        <div class="hdLink">
+                                                                                            <a target="_blank" title="马刺论坛" href="http://bbs.hupu.com/spurs">论坛</a> |                                                                                            <a target="_blank" title="马刺视频" href="http://v.videohupu.com/nba/new/spurs">视频</a> |                                                                                            <a target="_blank" title="火箭直播" href="http://v.opahnet.com/nba/tv/">直播</a> |                                                                                            <a target="_blank" title="马刺新闻" href="http://voice.hupu.com/o/spurs">新闻</a>                                                                                    </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="list">
+                                        <div class="left team1">
+                                            <a href="http://bbs.hupu.com/16687217.html" target="_blank">
+                                                <img width="90px" height="110px" src="http://w4.hoopchina.com.cn/4c/bb/c6/4cbbc664d6837bc8085896d8f182ae4b001.jpg" />
+                                            </a>
+                                        </div>
+                            	        <div class="zhaiyao">
+                                            <h5>
+                                                <a href="http://bbs.hupu.com/16687217.html" target="_blank">Woj：邓肯正强烈倾向考虑退役</a>
+                                            </h5>
+                                            <p>消息人士透露，马刺传奇内线邓肯目前正“强烈倾向”退役。</p>
+                           	            </div>
+                                        <div class="clear"></div>
+                                            <ul>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16688057.html" target="_blank">Woj：马刺可能交易送走迪奥</a>
+                                                                                                        <a  href="http://bbs.hupu.com/16675929.html" target="_blank">不退役！马努宣布再战一年</a>
+                                                                                                    </li>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16687888.html" target="_blank">Woj：加索尔即将加盟马刺</a>
+                                                                                                        <a  href="http://bbs.hupu.com/16688287.html" target="_blank">贝尔坦斯有望和马刺签约</a>
+                                                                                                    </li>
+                                            </ul>
+                                                                            </div>
+                                    <!--heat 结束-->
+                            <hr />
+
+                                                                <!--spurs-->
+                                    <div class="nba-hd-B">
+                                        <h2>
+                                            <!--                                               <a href="http://nba.hupu.com/teams/heat">
+                                                 <img usemap="#wade" src="http://i1.hoopchina.com.cn/u/1212/27/549/16351549/09d4e931.png" title="热火" alt="热火">
+                                                 <map id="wade" name="wade">
+                                                   <area target="_blank" href="http://voice.hupu.com/nba/player/wade" coords="57,0,87,16" shape="rect">
+                                                 </map>
+                                               </a>-->
+                                                                                           <a href="http://g.hupu.com/nba/teams/lakers" target="_blank"><img src="http://w4.hoopchina.com.cn/9a/d8/48/9ad8485fe4780a3c762227f6bc2a2a69002.png" title="湖人" alt="湖人" /></a>
+                                                                                    </h2>
+                                        <div class="hdLink">
+                                                                                            <a target="_blank" title="湖人论坛" href="http://bbs.hupu.com/lakers">论坛</a> |                                                                                            <a target="_blank" title="湖人视频" href="http://v.videohupu.com/nba/new/lakers">视频</a> |                                                                                            <a target="_blank" title="湖人直播" href="http://v.opahnet.com/nba/tv/">直播</a> |                                                                                            <a target="_blank" title="湖人新闻" href="http://voice.hupu.com/o/lakers">新闻</a>                                                                                    </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="list">
+                                        <div class="left team1">
+                                            <a href="http://bbs.hupu.com/16680043.html" target="_blank">
+                                                <img width="90px" height="110px" src="http://w4.hoopchina.com.cn/f2/a1/05/f2a10583cc9f714ca8dfe560792d4d14001.jpg" />
+                                            </a>
+                                        </div>
+                            	        <div class="zhaiyao">
+                                            <h5>
+                                                <a href="http://bbs.hupu.com/16680043.html" target="_blank">莺歌：正为夏季联赛准备我的歌单</a>
+                                            </h5>
+                                            <p>英格拉姆给人一种不紧不慢的感觉，像他迷离的双眼一样让人陶醉。</p>
+                           	            </div>
+                                        <div class="clear"></div>
+                                            <ul>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16678594.html" target="_blank">洛尔-邓发文致谢老东家</a>
+                                                                                                        <a  href="http://bbs.hupu.com/16683499.html" target="_blank">图文回顾02年总决赛G1</a>
+                                                                                                    </li>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16670958.html" target="_blank"><em class="stream_i">洛尔-邓大学劲爆集锦</em></a>
+                                                                                                        <a  href="http://bbs.hupu.com/16415192.html" target="_blank"><em class="stream_i">科比生涯变向过人集锦</em></a>
+                                                                                                    </li>
+                                            </ul>
+                                                                            </div>
+                                    <!--spurs 结束-->
+                            <hr />
+
+                                                                <!--thunder-->
+                                    <div class="nba-hd-B">
+                                        <h2>
+                                            <!--                                               <a href="http://nba.hupu.com/teams/heat">
+                                                 <img usemap="#wade" src="http://i1.hoopchina.com.cn/u/1212/27/549/16351549/09d4e931.png" title="热火" alt="热火">
+                                                 <map id="wade" name="wade">
+                                                   <area target="_blank" href="http://voice.hupu.com/nba/player/wade" coords="57,0,87,16" shape="rect">
+                                                 </map>
+                                               </a>-->
+                                                                                           <a href="http://g.hupu.com/nba/teams/thunder" target="_blank"><img src="http://w1.hoopchina.com.cn/d4/0a/02/d40a02f30d8d42220e2a8c69ccf51a7d001.jpg" title="雷霆" alt="雷霆" /></a>
+                                                                                    </h2>
+                                        <div class="hdLink">
+                                                                                            <a target="_blank" title="雷霆论坛" href="http://bbs.hupu.com/thunder">论坛</a> |                                                                                            <a target="_blank" title="雷霆视频" href="http://v.videohupu.com/nba/tag/%E9%9B%B7%E9%9C%86">视频</a> |                                                                                            <a target="_blank" title="雷霆直播" href="http://v.opahnet.com/nba/tv/">直播</a> |                                                                                            <a target="_blank" title="雷霆新闻" href="http://voice.hupu.com/o/thunder">新闻</a>                                                                                    </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="list">
+                                        <div class="left team1">
+                                            <a href="http://bbs.hupu.com/16685626.html" target="_blank">
+                                                <img width="90px" height="110px" src="http://w4.hoopchina.com.cn/91/1d/01/911d01edaf378e11526692eeca2f76bd001.jpg" />
+                                            </a>
+                                        </div>
+                            	        <div class="zhaiyao">
+                                            <h5>
+                                                <a href="http://bbs.hupu.com/16685626.html" target="_blank">杜兰特宣布决定：加盟勇士</a>
+                                            </h5>
+                                            <p>凯文-杜兰特宣布，他将在今年夏天和金州勇士队签约。</p>
+                           	            </div>
+                                        <div class="clear"></div>
+                                            <ul>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16686740.html" target="_blank">雷霆管理层发声感谢杜兰特 </a>
+                                                                                                        <a  href="http://bbs.hupu.com/16681205.html" target="_blank">安东尼-莫罗：下赛季看你了</a>
+                                                                                                    </li>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16670485.html" target="_blank">奥拉迪波：期待和威少配合</a>
+                                                                                                        <a  href="http://bbs.hupu.com/16671679.html" target="_blank">NBA球队奢侈税：雷霆第四</a>
+                                                                                                    </li>
+                                            </ul>
+                                                                            </div>
+                                    <!--thunder 结束-->
+                            <hr />
+
+                                                                                                                        <!--clippers-->
+                                    <div class="nba-hd-B">
+                                        <h2>
+                                            <!--                                               <a href="http://nba.hupu.com/teams/heat">
+                                                 <img usemap="#wade" src="http://i1.hoopchina.com.cn/u/1212/27/549/16351549/09d4e931.png" title="热火" alt="热火">
+                                                 <map id="wade" name="wade">
+                                                   <area target="_blank" href="http://voice.hupu.com/nba/player/wade" coords="57,0,87,16" shape="rect">
+                                                 </map>
+                                               </a>-->
+                                                                                           <a href="http://g.hupu.com/nba/teams/heat" target="_blank"><img src="http://w2.hoopchina.com.cn/66/9a/90/669a9081663e5a67421fadcf3b787e66002.png" title="热火" alt="热火" /></a>
+                                                                                    </h2>
+                                        <div class="hdLink">
+                                                                                            <a target="_blank" title="热火论坛" href="http://bbs.hupu.com/heat">论坛</a> |                                                                                            <a target="_blank" title="热火视频" href="http://v.videohupu.com/nba/new/heat">视频</a> |                                                                                            <a target="_blank" title="热火直播" href="http://v.opahnet.com/nba/tv/">直播</a> |                                                                                            <a target="_blank" title="热火新闻" href="http://voice.hupu.com/o/heat">新闻</a>                                                                                    </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="list">
+                                        <div class="left team1">
+                                            <a href="http://bbs.hupu.com/16688086.html" target="_blank">
+                                                <img width="90px" height="110px" src="http://w1.hoopchina.com.cn/8c/0e/bc/8c0ebc3f2b33e689f83b84d8a48ae0af001.jpg" />
+                                            </a>
+                                        </div>
+                            	        <div class="zhaiyao">
+                                            <h5>
+                                                <a href="http://bbs.hupu.com/16688086.html" target="_blank">热火2年4000万报价韦德？</a>
+                                            </h5>
+                                            <p>热火队给韦德开出了2年4000万美元，第二年球员选项的报价。</p>
+                           	            </div>
+                                        <div class="clear"></div>
+                                            <ul>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16687773.html" target="_blank">雄鹿将在纽约与韦德会面</a>
+                                                                                                        <a  href="http://bbs.hupu.com/16678595.html" target="_blank">洛尔-邓发文致谢热火队</a>
+                                                                                                    </li>
+                                                <li >
+                                                    <a  href="http://bbs.hupu.com/16675374.html" target="_blank">韦与好友在西班牙享受假期</a>
+                                                                                                        <a  href="http://bbs.hupu.com/16676715.html" target="_blank">韦德发推祝贺泰勒-约翰逊</a>
+                                                                                                    </li>
+                                            </ul>
+                                                                            </div>
+                                    <!--clippers 结束-->
+                             <hr />
+                                                                                             <!--celtics-->
+                                    <div class="nba-hd-B">
+                                        <h2><a href="http://g.hupu.com/nba/teams/clippers"><img src="http://w2.hoopchina.com.cn/5c/91/1f/5c911fc8ceab2bc9c545322d38e9a361002.png" title="快船" alt="快船" /></a></h2>
+                                        <div class="hdLink">
+                                                                                            <a target="_blank" title="快船论坛" href="http://bbs.hupu.com/clippers">论坛</a> |                                                                                            <a target="_blank" title="快船视频" href="http://v.videohupu.com/nba/tag/%E5%BF%AB%E8%88%B9">视频</a> |                                                                                            <a target="_blank" title="快船直播" href="http://v.opahnet.com/nba/tv/">直播</a> |                                                                                            <a target="_blank" title="快船新闻" href="http://voice.hupu.com/o/clippers">新闻</a>                                                                                    </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="list">
+                                        <div class="left team1">
+                                            <a href="http://bbs.hupu.com/16679317.html" target="_blank">
+                                                <img width="90px" height="110px" src="http://w4.hoopchina.com.cn/2a/33/6a/2a336aef556bdbf120d5b2c966e72285002.png" />
+                                            </a>
+                                        </div>
+                            	        <div class="zhaiyao">
+                                            <h5>
+                                                <a href="http://bbs.hupu.com/16679317.html" target="_blank">白阿德与森林狼达成协议3年2200万</a>
+                                            </h5>
+                                            <p>阿尔德里奇上赛季出场60次，场均得到5.5分4.8个篮板。</p>
+                           	            </div>
+                                        <div class="clear"></div>
+                                            <ul>
+                                                                                                <li class="link2">
+                                                    	                                                <span><a href="http://bbs.hupu.com/celtics" target="_blank">凯尔特人</a></span>|
+                                                                                                        <a href="http://bbs.hupu.com/16668367.html" target="_blank">Woj：霍弗德计划4年1.13亿加盟绿衫军</a>
+                                                </li>
+                                                                                                <li class="link2">
+                                                    	                                                <span><a href="http://bbs.hupu.com/knicks" target="_blank">尼克斯区</a></span>|
+                                                                                                        <a href="http://bbs.hupu.com/16668453.html" target="_blank">考特尼-李与尼克斯达成4年5000万协议</a>
+                                                </li>
+                                                                                                <li class="link2">
+                                                    	                                                <span><a href="http://bbs.hupu.com/nba-draft-ncaa" target="_blank">NCAA区</a></span>|
+                                                                                                        <a href="http://bbs.hupu.com/16664799.html" target="_blank">马利克-蒙克：真正的猎人，探秘肯塔基5号</a>
+                                                </li>
+                                                                                                <li class="link2">
+                                                    	                                                <span><a href="http://bbs.hupu.com/mavericks" target="_blank">小牛专区</a></span>|
+                                                                                                        <a href="http://bbs.hupu.com/16687976.html" target="_blank">小牛4年9400万得到巴恩斯！</a>
+                                                </li>
+                                                                                                <li class="link2">
+                                                    	                                                <span><a href="http://bbs.hupu.com/grizzlies" target="_blank">灰熊专区</a></span>|
+                                                                                                        <a href="http://bbs.hupu.com/16677013.html" target="_blank">灰熊两签惊天下，出手阔气真土豪 </a>
+                                                </li>
+                                                                                                <li class="link2">
+                                                    	                                                <span><a href="http://bbs.hupu.com/nets" target="_blank">篮网专区</a></span>|
+                                                                                                        <a href="http://bbs.hupu.com/16676328.html" target="_blank">泰勒-约翰逊和篮网签下4年5000万邀请报价</a>
+                                                </li>
+                                                                                                <li class="link2">
+                                                    	                                                <span><a href="http://bbs.hupu.com/sixers" target="_blank">76人专区</a></span>|
+                                                                                                        <a href="http://bbs.hupu.com/16658728.html" target="_blank">杰里-贝勒斯将3年2700万签约76人 </a>
+                                                </li>
+                                                                                                <li class="link2">
+                                                    	                                                <span><a href="http://bbs.hupu.com/blazers" target="_blank">开拓者区</a></span>|
+                                                                                                        <a href="http://bbs.hupu.com/16658792.html" target="_blank">特纳同意4年7000万加盟开拓者 </a>
+                                                </li>
+                                                                                            </ul>
+                                                                            </div>
+                                    <!--celtics 结束-->
+                        </div>
+                        </div>
+                        <div class="bottom"></div>
+                    </div>
+                                    </div>
+                <!--上右-->
+            	<div class="news">
+
+                 <!--社区热帖开始-->
+					<div class="retie">
+                        <div class="top">
+                        	<h4 class="d3"><a href="http://bbs.hupu.com/vote" target="_blank" title="湿乎乎的话题">湿乎乎的话题</a></h4>
+                            <div class="more_tab"><a href="http://bbs.hupu.com/zhidao" target="_blank">问答</a> | <a href="http://bbs.hupu.com/vote-type2" target="_blank">话题</a> | <a href="http://bbs.hupu.com/vote-type1
+" target="_blank">投票</a></div>
+                        </div>
+                        <div class="center">
+  							<div class="list">
+                                    <!--hotstart-->
+                                  	<ul><li class="qu"><a href="http://bbs.hupu.com/vote" title="重磅" target="_blank">重磅</a>&nbsp; <span>|</span></li><li><span><a title="杜兰特宣布决定：他将与勇士队签约！" alt="杜兰特宣布决定：他将与勇士队签约！" target="_blank" href="http://bbs.hupu.com/16685628.html">杜兰特宣布决定：他将与勇士队签约！</a></span><span style="margin-left:5px">20亮3185回复</span></li><li><span><a title="杜兰特球星看台亲笔：我的下一章节！" alt="杜兰特球星看台亲笔：我的下一章节！" target="_blank" href="http://bbs.hupu.com/16685852.html">杜兰特球星看台亲笔：我的下一章节！</a></span><span style="margin-left:5px">20亮4965回复</span></li><li><span><a title="Woj炸弹：蒂姆邓肯正强烈倾向退役！" alt="Woj炸弹：蒂姆邓肯正强烈倾向退役！" target="_blank" href="http://bbs.hupu.com/16687221.html">Woj炸弹：蒂姆邓肯正强烈倾向退役！</a></span><span style="margin-left:5px">20亮568回复</span></li><div class="clear"></div></ul><ul><li class="qu"><a href="http://bbs.hupu.com/vote" title="焦点" target="_blank">焦点</a>&nbsp; <span>|</span></li><li><span><a title="德克同意低价续约？退役后库班养他！" alt="德克同意低价续约？退役后库班养他！" target="_blank" href="http://bbs.hupu.com/16690837.html">德克同意低价续约？退役后库班养他！</a></span><span style="margin-left:5px">14亮264回复</span></li><li><span><a title="炸穿！美国球迷热议杜兰特加盟勇士！" alt="炸穿！美国球迷热议杜兰特加盟勇士！" target="_blank" href="http://bbs.hupu.com/16686394.html">炸穿！美国球迷热议杜兰特加盟勇士！</a></span><span style="margin-left:5px">20亮1281回复</span></li><div class="clear"></div></ul><ul><li class="qu"><a href="http://bbs.hupu.com/vote" title="新鲜" target="_blank">新鲜</a>&nbsp; <span>|</span></li><li><span><a title="普雷斯蒂：威少会调整，他是真领袖！" alt="普雷斯蒂：威少会调整，他是真领袖！" target="_blank" href="http://bbs.hupu.com/16691478.html">普雷斯蒂：威少会调整，他是真领袖！</a></span><span style="margin-left:5px">1亮29回复</span></li><li><span><a title="大局观出色！西蒙斯夏季联赛首秀集锦" alt="大局观出色！西蒙斯夏季联赛首秀集锦" target="_blank" href="http://bbs.hupu.com/16690968.html">大局观出色！西蒙斯夏季联赛首秀集锦</a></span><span style="margin-left:5px">1亮29回复</span></li><li><span><a title="强援加盟，小牛要变成达拉斯勇士了！" alt="强援加盟，小牛要变成达拉斯勇士了！" target="_blank" href="http://bbs.hupu.com/16690714.html">强援加盟，小牛要变成达拉斯勇士了！</a></span><span style="margin-left:5px">5亮25回复</span></li><li><span><a title="Woj：小库里两年600万加盟小牛队！" alt="Woj：小库里两年600万加盟小牛队！" target="_blank" href="http://bbs.hupu.com/16690325.html">Woj：小库里两年600万加盟小牛队！</a></span><span style="margin-left:5px">9亮144回复</span></li><li><span><a title="夏季联赛首秀，西蒙斯10分8板5助伤退" alt="夏季联赛首秀，西蒙斯10分8板5助伤退" target="_blank" href="http://bbs.hupu.com/16689571.html">夏季联赛首秀，西蒙斯10分8板5助伤退</a></span><span style="margin-left:5px">7亮70回复</span></li><li><span><a title="补中锋！勇士一年290万拿下帕楚里亚" alt="补中锋！勇士一年290万拿下帕楚里亚" target="_blank" href="http://bbs.hupu.com/16688755.html">补中锋！勇士一年290万拿下帕楚里亚</a></span><span style="margin-left:5px">11亮135回复</span></li><li><span><a title="Woj：加索尔即将2年3000万加盟马刺" alt="Woj：加索尔即将2年3000万加盟马刺" target="_blank" href="http://bbs.hupu.com/16687889.html">Woj：加索尔即将2年3000万加盟马刺</a></span><span style="margin-left:5px">6亮220回复</span></li><li><span><a title="勇士与小牛达成交易，博古特加盟小牛" alt="勇士与小牛达成交易，博古特加盟小牛" target="_blank" href="http://bbs.hupu.com/16687719.html">勇士与小牛达成交易，博古特加盟小牛</a></span><span style="margin-left:5px">13亮224回复</span></li><div class="clear"></div></ul><ul><li class="qu"><a href="http://bbs.hupu.com/vote" title="话题" target="_blank">话题</a>&nbsp; <span>|</span></li><li><span><a title="巴恩斯伊格达拉博古特现在会是何心情" alt="巴恩斯伊格达拉博古特现在会是何心情" target="_blank" href="http://bbs.hupu.com/16684403.html">巴恩斯伊格达拉博古特现在会是何心情</a></span><span style="margin-left:5px">7亮211回复</span></li><li><span><a title="不夺冠就失败？你对明年勇士有何期待" alt="不夺冠就失败？你对明年勇士有何期待" target="_blank" href="http://bbs.hupu.com/16685732.html">不夺冠就失败？你对明年勇士有何期待</a></span><span style="margin-left:5px">17亮864回复</span></li><li><span><a title="杜兰特加盟勇士，你能接受这个结果吗" alt="杜兰特加盟勇士，你能接受这个结果吗" target="_blank" href="http://bbs.hupu.com/16685738.html">杜兰特加盟勇士，你能接受这个结果吗</a></span><span style="margin-left:5px">20亮2374回复</span></li><li><span><a title="勇士达成了历史第一个真正的“Big 4”？" alt="勇士达成了历史第一个真正的“Big 4”？" target="_blank" href="http://bbs.hupu.com/16685792.html">勇士达成了历史第一个真正的“Big 4”？</a></span><span style="margin-left:5px">19亮820回复</span></li><li><span><a title="小里弗斯：一开始为我爸打球是拒绝的" alt="小里弗斯：一开始为我爸打球是拒绝的" target="_blank" href="http://bbs.hupu.com/16680184.html">小里弗斯：一开始为我爸打球是拒绝的</a></span><span style="margin-left:5px">11亮106回复</span></li><li><span><a title="超级潜力新秀，波尔津吉斯展现了什么" alt="超级潜力新秀，波尔津吉斯展现了什么" target="_blank" href="http://bbs.hupu.com/16649916.html">超级潜力新秀，波尔津吉斯展现了什么</a></span><span style="margin-left:5px">4亮128回复</span></li><li><span><a title="若某天退役球衣占满了号码该怎么办？" alt="若某天退役球衣占满了号码该怎么办？" target="_blank" href="http://bbs.hupu.com/16654176.html">若某天退役球衣占满了号码该怎么办？</a></span><span style="margin-left:5px">8亮172回复</span></li><div class="clear"></div></ul><ul><li class="qu"><a href="http://bbs.hupu.com/vote" title="春潮" target="_blank">春潮</a>&nbsp; <span>|</span></li><li><span><a title="骑士夺冠，成人女星要和全队滚床单！" alt="骑士夺冠，成人女星要和全队滚床单！" target="_blank" href="http://bbs.hupu.com/16680083.html">骑士夺冠，成人女星要和全队滚床单！</a></span><span style="margin-left:5px">4亮49回复</span></li><div class="clear"></div></ul><ul><li class="qu"><a href="http://bbs.hupu.com/vote" title="推广" target="_blank">推广</a>&nbsp; <span>|</span></li><li><span><a title="放假狂潮，天梭决战24秒等你来上车！" alt="放假狂潮，天梭决战24秒等你来上车！" target="_blank" href="http://bbs.hupu.com/16280496.html">放假狂潮，天梭决战24秒等你来上车！</a></span><span style="margin-left:5px">3回复</span></li><div class="clear"></div></ul>                                    <!--hotend-->
+                          </div>
+
+                        </div>
+                        <div class="bottom"></div>
+                    </div>
+                <!--社区热帖结束-->
+
+                    <div class="clear"></div>
+                    <div class="newsRumors" id="new_s_sc">
+                    <!--liuyanstart-->    <div class="top liningLogo">
+        <h4 class="b1"><a href="http://voice.hupu.com/nba" target="_blank" title="新闻与流言">新闻与流言</a></h4>
+        
+        <div class="more_tab">
+                    </div>
+    </div>
+    <div class="center" >
+        <dl class="nba-item-A">
+            <dt><a target="_blank" href="http://voice.hupu.com/nba/2044980.html"><img src="http://c2.hoopchina.com.cn/uploads/star/event/recommend/160630/thumbnail-4460979446158d060981f5ce0a0de2182a2076b8.png"></a></dt>
+            <dd><h5><a target="_blank" href="http://voice.hupu.com/nba/2044980.html">休赛季大戏！杜兰特去哪儿</a></h5></dd>
+            <dd class="textInfo">自由市场最大牌之一的杜兰特会面各支球队具体日程出炉。</dd>
+        </dl>
+        <div class="newsRumors-top">
+            <ul>
+                                   <li><i class="newsTop-num-1">1</i><a target="_blank" href="http://voice.hupu.com/nba/2046673.html">杜兰特宣布决定：加盟勇士</a>
+                       <em class="replies">
+                          49亮2482回复                       </em>
+                   </li>
+                                   <li><i class="newsTop-num-2">2</i><a target="_blank" href="http://voice.hupu.com/nba/2046698.html">皮尔斯：打不过就加入他们</a>
+                       <em class="replies">
+                          18亮514回复                       </em>
+                   </li>
+                                   <li><i class="newsTop-num-3">3</i><a target="_blank" href="http://voice.hupu.com/nba/2046703.html">勇士与小牛达成博古特交易</a>
+                       <em class="replies">
+                          5亮245回复                       </em>
+                   </li>
+                                   <li><i class="newsTop-num-4">4</i><a target="_blank" href="http://voice.hupu.com/nba/2046709.html">小牛4年9400万得到巴恩斯</a>
+                       <em class="replies">
+                          12亮204回复                       </em>
+                   </li>
+                                   <li><i class="newsTop-num-5">5</i><a target="_blank" href="http://voice.hupu.com/nba/2046690.html">Woj：邓肯目前强烈倾向退役</a>
+                       <em class="replies">
+                          11亮301回复                       </em>
+                   </li>
+                                   <li><i class="newsTop-num-6">6</i><a target="_blank" href="http://voice.hupu.com/nba/2046687.html">球员评价杜兰特加盟勇士：威少场均三双啦</a>
+                       <em class="replies">
+                          12亮372回复                       </em>
+                   </li>
+                                   <li><i class="newsTop-num-7">7</i><a target="_blank" href="http://voice.hupu.com/nba/2046718.html">詹宁斯与尼克斯达成1年500万美元协议</a>
+                       <em class="replies">
+                          6亮156回复                       </em>
+                   </li>
+                                   <li><i class="newsTop-num-8">8</i><a target="_blank" href="http://voice.hupu.com/nba/2046682.html">雷霆主席和总经理发表声明感谢杜兰特</a>
+                       <em class="replies">
+                          12亮408回复                       </em>
+                   </li>
+                                   <li><i class="newsTop-num-9">9</i><a target="_blank" href="http://voice.hupu.com/nba/2046724.html">恩比德：2K17会一直用勇士</a>
+                       <em class="replies">
+                          4亮65回复                       </em>
+                   </li>
+                                   <li><i class="newsTop-num-10">10</i><a target="_blank" href="http://voice.hupu.com/nba/2046713.html">雷霆希望和威少提前续约</a>
+                       <em class="replies">
+                          10亮146回复                       </em>
+                   </li>
+                            </ul>
+        </div>
+    </div> 
+    <div class="bottom"></div>
+<!--liuyanend-->
+                    </div>
+                	<!--CBA开始-->
+                   <div class="CBA">
+                   			
+
+      <div class="top"> 
+                        	<h4 class="b3"><a href="http://cba.hupu.com/" target="_blank" title="CBA">虎扑CBA</a></h4>
+<!--                                <a href="http://www.li-ning.com.cn/basketball/" target="_blank"><img width="111" height="15" src="http://cba.hupu.com/images/nba_lining_new.png" style="margin-top:3px; float:left"></a>-->
+                            <div class="more_tab"> <a href="http://nba.hupu.com/tv/cba" target="_blank" title="cba直播">直播</a> | <a href="http://v.opahnet.com/nba/new/cba" target="_blank">视频</a> | <a href="http://voice.hupu.com/cba" target="_blank">新闻</a> | <a href="http://bbs.hupu.com/cba" target="_blank">论坛</a> | <a href="http://cba.hupu.com/" target="_blank">主页</a></div>
+                        </div>
+    <div class="center">
+        <div class="list2">
+        	<div class="left"><a href="http://bbs.hupu.com/16648020.html" target="_blank"><img src="http://w4.hoopchina.com.cn/e3/8b/1f/e38b1f46609853b4c6e0572a272f6315001.jpg" /></a></div>
+            <div class="zhaiyao">
+              <h5><a href="http://bbs.hupu.com/16648020.html" target="_blank">为什么中国培养不出NBA级别的控卫？</a></a></h5>
+                <p>中国今年又有两个高塔登陆世界篮球最高的殿堂NBA。控卫却几乎是白纸，仅有的孙悦也难以立足。那么，到底是为什么呢？</p>
+          </div>
+            <div class="clear"></div>
+            <ul>
+              <li>
+				  <a href="http://bbs.hupu.com/16618693.html" target="_blank">谁是国内仅次于阿联的第二人？</a>
+				  <a href="http://bbs.hupu.com/16618296.html" target="_blank">如何解决周琦不强硬的问题</a>
+			  </li>
+              <li>
+				  <a href="http://bbs.hupu.com/16620139.html" target="_blank">今年国家队的热身质量很高吗？</a>
+				  <a href="http://bbs.hupu.com/16610816.html" target="_blank">王泉泽是非常有潜力的新星？</a> 
+			 </li>
+
+             </ul>
+        </div>                      
+       
+    </div>
+    <div class="bottom"></div>
+    
+				  </div>
+					<!--voit街头篮球-->
+                   <div class="voit">
+                   			    <div class="top">
+	    <h4 class="b6">
+		    <a href="http://bbs.hupu.com/streetball" target="_blank" title="街头篮球">街头篮球</a>
+		</h4>
+	</div>
+    <div class="center">
+        <div class="list2">
+            <div class="left">
+                <a href="http://bbs.hupu.com/16655107.html" target="_blank"><img  width="133px" height="82px"  src="http://w4.hoopchina.com.cn/1c/fc/d0/1cfcd0d022f1b0d558159a785c568f8d001.jpg" /></a>
+            </div>
+            <div class="zhaiyao">
+                <h5>
+                    <a href="http://bbs.hupu.com/16655107.html" target="_blank">Jump10世界街球大奖赛启动！</a></a>
+                </h5>
+                <p>梦想不再只是梦想,一场捍卫荣誉的战斗。JUMP10世界街球大奖赛破土而出、耀世而来。</p>
+            </div>
+            <div class="clear"></div>
+            <ul>
+                <li>
+				    <a href="http://bbs.hupu.com/16648388.html" target="_blank">科比布莱恩特独家绝学大放送</a>
+				    <a href="http://bbs.hupu.com/16643112.html" target="_blank">战地为王2016 西安3V3大赛</a>
+			    </li>
+                <li>
+				    <a href="http://bbs.hupu.com/16599548.html" target="_blank"><em class="stream_i">2016日落东单week-7视频</em></a>
+				    <a href="http://bbs.hupu.com/16630197.html" target="_blank">红牛城市传奇争霸赛-南京站</a> 
+			    </li>
+			    <li>
+				    <a href="http://bbs.hupu.com/16647097.html" target="_blank">COURT KINGZ 球员Mr. Viral</a>
+				    <a href="http://bbs.hupu.com/16643426.html" target="_blank"><em class="stream_i">COURT KINGZ  辣酱介绍</em></a> 
+			    </li>
+             </ul>
+        </div>                      
+    </div>
+							<div class="bottom"></div>
+					</div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="mt-8"></div>
+            <!--nbaindex_728x90_2_1-begin-->
+            <div id='div-gpt-ad-1442459674416-13' style='height:90px; width:728px; overflow:hidden;'>
+            <script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-13'); });
+            </script>
+            </div>
+            <!--nbaindex_728x90_2_1-end-->
+            <div class="mt-8"></div>
+           <div class="photo manhua">
+           		<div class="top"></div>
+            	<div class="center">
+            		<h4>虎扑画廊</h4>
+                    
+<div class="list">
+                   <ul><li>
+                    <a title="炒鸡萌的库里手机壁纸" href="http://photo.hupu.com/nba/p31976.html" target="_blank">
+						<img width="195" height="130" src="http://w3.hoopchina.com.cn/69/d9/e0/69d9e01a50b30b0d6c1cf31ca1411c1e001.jpg" />
+					</a>
+					<a title="炒鸡萌的库里手机壁纸" href="http://photo.hupu.com/nba/p31976.html" target="_blank">
+						炒鸡萌的库里手机壁纸					</a>
+				</li><li>
+					<a title="詹姆斯的英雄形象" href="http://photo.hupu.com/nba/p31954.html" target="_blank">
+						<img width="195" height="130" src="http://w3.hoopchina.com.cn/8d/07/cb/8d07cb7678ad8d09dbab87ebe63aca06001.jpg" />
+					</a>
+                    <a title="詹姆斯的英雄形象" href="http://photo.hupu.com/nba/p31954.html" target="_blank">
+						詹姆斯的英雄形象					</a>
+                </li>
+                <li>
+					<a title="当代大魔王！库里2.5" href="http://photo.hupu.com/nba/p31904.html" target="_blank">
+						<img width="195" height="130" src="http://w3.hoopchina.com.cn/0b/b7/5b/0bb75bb4e16ae90f4f83819562dffeb4001.jpg" />
+					</a>
+					<a title="当代大魔王！库里2.5" href="http://photo.hupu.com/nba/p31904.html" target="_blank">
+						当代大魔王！库里2.5					</a>
+                </li>
+                <li>
+					<a title="都是队友的错" href="http://photo.hupu.com/nba/p31748.html" target="_blank">
+						<img width="195" height="130" src="http://w1.hoopchina.com.cn/53/f9/95/53f995401bacfe3a01d5bd87e6a9abbd001.jpg" />
+					</a>
+					<a title="都是队友的错" href="http://photo.hupu.com/nba/p31748.html" target="_blank">
+						都是队友的错					</a>
+				</li>
+                </ul>
+                </div>
+
+                </div>
+				<div class="bottom"></div>
+            </div>
+
+            <!--上部结束广告开始-->
+            <div class="nba-ad728-90 mb-10">
+                <div id='div-gpt-ad-1442459674416-0' style='height:90px; width:728px; overflow:hidden;'>
+                    <script type='text/javascript'>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-0'); });
+                    </script>
+                </div>
+			</div>
+            <!--下部开始-->
+            <div class="container_bottom">
+                <!--下左-->
+            	<div class="bottom_left">
+                    <div class="shihuoBox">
+                        <div class="top"></div>
+                        <div class="center">
+                            <h4 class="c6"><a href="http://shihuo.hupu.com/ " target="_blank">虎扑识货</a></h4>
+                            <div class="more_tab">
+                                <a target="_blank" href="http://www.shihuo.cn/haitao">识货海淘</a> | <a target="_blank" href="http://shihuo.hupu.com">优惠信息</a> | <a target="_blank" href="http://shihuo.hupu.com/shoe">篮球鞋</a> | <a target="_blank" href="http://shihuo.hupu.com/shop">推荐店铺</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="list">
+    <div class="top_imgs">
+                    <div class="top_imgs_a">
+                        <a href="http://www.shihuo.cn/article/detail/419.html" target="_blank"><img width="130" height="80"  src="http://w4.hoopchina.com.cn/24/66/ab/2466ab22086d8dac55250d18b59b61b7001.jpg" /></a>
+                    </div>
+                    <div class="top_imgs_b">
+                        <a href="http://www.shihuo.cn/article/detail/419.html" target="_blank" style="color:#990000">识货有奖征文大赛Vol.2</a>
+                        <p>本期识货更新了更有趣的话题，文章符合识货要求还能赢取500元/篇稿费哦，赶紧参加吧</p>
+                    </div>
+                </div>
+                <div style="clear:both;"></div>
+                <ul class="shihuohupu_ul">
+                        <li><s></s><a target="_blank" href="http://www.shihuo.cn/youhui/170965.html" title="全能表现！KB MENTALITY II EP --- NIKE官网559元包邮">全能表现！KB MENTALITY II EP <b>NIKE官网559元包邮</b></a></li><li><s></s><a target="_blank" href="http://www.shihuo.cn/youhui/202871.html" title="销量第一！Pure Body Naturals 死海泥面膜 --- $14.45 （转运到手约￥150）">销量第一！Pure Body  <b>$14.45 （转运到手约￥150）</b></a></li><li><s></s><a target="_blank" href="http://www.shihuo.cn/youhui/196908.html" title="轻盈质感！KD 8 EP --- 耐克官网909元有售">轻盈质感！KD 8 EP <b>耐克官网909元有售</b></a></li><li><s></s><a target="_blank" href="http://www.shihuo.cn/youhui/203212.html" title="经典黑白！Saucony Originals 索康尼 Grid 9000 万圣节 --- $49.95（转运到手约￥440）">经典黑白！Saucony Orig <b>$49.95（转运到手约￥440）</b></a></li><li><s></s><a target="_blank" href="http://www.shihuo.cn/youhui/183394.html" title="轻盈迅疾！Nike Air Zoom Elite 8 --- NIKE官网739元包邮">轻盈迅疾！Nike Air Zoom Elit <b>NIKE官网739元包邮</b></a></li><li><s></s><a target="_blank" href="http://www.shihuo.cn/youhui/195798.html" title="革新经典!Nike Air Max 90 Ultra Moire --- 耐克官网759元有售">革新经典!Nike Air Max 90 Ultra <b>耐克官网759元有售</b></a></li><li><s></s><a target="_blank" href="http://www.shihuo.cn/youhui/192369.html" title="轻盈灵活！Jordan Horizon --- 耐克官网1039元有售">轻盈灵活！Jordan Horizon <b>耐克官网1039元有售</b></a></li><li><s></s><a target="_blank" href="http://www.shihuo.cn/youhui/190312.html" title="创造历史！LeBron XIII Elite EP --- 耐克官网1749元有售">创造历史！LeBron XIII Elite E <b>耐克官网1749元有售</b></a></li>                </ul>
+</div>
+                            <div style="clear:both;"></div>
+                        </div>
+                        <div class="bottom"></div>
+                     </div>
+
+                <!--卡路里开始-->
+				<div class="lining geq" >
+			      <div class="top"></div>
+			      <div class="center">
+			        <div class="nba-hd-B">
+                        <h2 class="nba-hd-shihou"><a href="http://www.shihuo.cn/tuangou" target="_blank">虎扑识货团购</a></h2>
+                        <span class="new-tipText">每周二上新</span>
+                        <div class="hdLink">
+                        <a href="http://bbs.hupu.com/shihuo" title="识货论坛" target="_blank">识货论坛</a>
+                        </div>
+                    </div>
+			        <!--focus star-->
+                                <div class="focusImg-shihuo" id="J_focusImgShihuo">
+        <div class="bigImg"><ul><li>
+                                <a target="_blank"  href="http://www.shihuo.cn/zhongce/detail?id=10">
+                                        <img height="185" width="315" src="http://shihuo.hupucdn.com/uploads/trade/groupon/interface/201606/2911/3f7ae3b43bd830469067ad6f53011469.jpg" alt="识货众测-crazylight 2016" title="识货众测-crazylight 2016">
+                                </a>
+                        </li><li>
+                                <a target="_blank"  href="http://www.shihuo.cn/tuangou/list/p-0-%E7%AF%AE%E7%90%83%E9%9E%8B">
+                                        <img height="185" width="315" src="http://shihuo.hupucdn.com/groupon.admin.cover/20160703/28072427f7d820821afed4d8356a4f5b1467555332.jpg?imageView2/1/w/315/h/185" alt="韦德 ALL DAY 16Q3最新云三代缓震实战篮球鞋" title="韦德 ALL DAY 16Q3最新云三代缓震实战篮球鞋">
+                                </a>
+                        </li><li>
+                                <a target="_blank"  href="http://www.shihuo.cn/tuangou/list/p-0-%E8%B7%91%E9%9E%8B">
+                                        <img height="185" width="315" src="http://shihuo.hupucdn.com/groupon.admin.cover/20160703/91c596125fabfb8661456ba7af411dee1467553264.jpg?imageView2/1/w/315/h/185" alt="ADIDAS 专业马拉松跑步鞋 超强抓地 超强耐磨" title="ADIDAS 专业马拉松跑步鞋 超强抓地 超强耐磨">
+                                </a>
+                        </li><li>
+                                <a target="_blank"  href="http://www.shihuo.cn/tuangou/list/p-0-%E4%BC%91%E9%97%B2%E9%9E%8B">
+                                        <img height="185" width="315" src="http://shihuo.hupucdn.com/groupon.admin.cover/20160703/d1b52d77bd302b8c1737da84e3266c161467561330.png?imageView2/1/w/315/h/185" alt="NIKE AIR FORCE 1 ULTRA 16新款AF1休闲板鞋 845052-001-100" title="NIKE AIR FORCE 1 ULTRA 16新款AF1休闲板鞋 845052-001-100">
+                                </a>
+                        </li></ul></div><div class="smallImg"><ul><li class="first active"><div class="progressBar">
+                                        <div class="progressBar-bd"></div>
+                                </div>
+                                <div class="pic">
+                                        <img height="48" width="78" src="http://shihuo.hupucdn.com/uploads/trade/groupon/interface/201606/2911/3f7ae3b43bd830469067ad6f53011469.jpg" alt="识货众测-crazylight 2016" title="识货众测-crazylight 2016">
+                                </div>
+                        </li><li><div class="progressBar">
+                                        <div class="progressBar-bd"></div>
+                                </div>
+                                <div class="pic">
+                                        <img height="48" width="78" src="http://shihuo.hupucdn.com/groupon.admin.cover/20160703/28072427f7d820821afed4d8356a4f5b1467555332.jpg?imageView2/1/w/315/h/185" alt="韦德 ALL DAY 16Q3最新云三代缓震实战篮球鞋" title="韦德 ALL DAY 16Q3最新云三代缓震实战篮球鞋">
+                                </div>
+                        </li><li><div class="progressBar">
+                                        <div class="progressBar-bd"></div>
+                                </div>
+                                <div class="pic">
+                                        <img height="48" width="78" src="http://shihuo.hupucdn.com/groupon.admin.cover/20160703/91c596125fabfb8661456ba7af411dee1467553264.jpg?imageView2/1/w/315/h/185" alt="ADIDAS 专业马拉松跑步鞋 超强抓地 超强耐磨" title="ADIDAS 专业马拉松跑步鞋 超强抓地 超强耐磨">
+                                </div>
+                        </li><li><div class="progressBar">
+                                        <div class="progressBar-bd"></div>
+                                </div>
+                                <div class="pic">
+                                        <img height="48" width="78" src="http://shihuo.hupucdn.com/groupon.admin.cover/20160703/d1b52d77bd302b8c1737da84e3266c161467561330.png?imageView2/1/w/315/h/185" alt="NIKE AIR FORCE 1 ULTRA 16新款AF1休闲板鞋 845052-001-100" title="NIKE AIR FORCE 1 ULTRA 16新款AF1休闲板鞋 845052-001-100">
+                                </div>
+                        </li></ul></div><ul class="content-text"><li class="active"><div class="info"></div>
+                        <div class="title-text">
+                                <a title="识货众测-crazylight 2016" target="_blank" href="http://www.shihuo.cn/zhongce/detail?id=10">识货众测-crazylight 2016</a>
+                        </div><li><div class="info"> <span class="price">￥299.00</span>
+                                <span class="participate">60人已参与</span></div>
+                        <div class="title-text">
+                                <a title="韦德 ALL DAY 16Q3最新云三代缓震实战篮球鞋" target="_blank" href="http://www.shihuo.cn/tuangou/list/p-0-%E7%AF%AE%E7%90%83%E9%9E%8B">韦德 ALL DAY 16Q3最新云三代缓震实战篮球鞋</a>
+                        </div><li><div class="info"> <span class="price">￥298.00</span>
+                                <span class="participate">15人已参与</span></div>
+                        <div class="title-text">
+                                <a title="ADIDAS 专业马拉松跑步鞋 超强抓地 超强耐磨" target="_blank" href="http://www.shihuo.cn/tuangou/list/p-0-%E8%B7%91%E9%9E%8B">ADIDAS 专业马拉松跑步鞋 超强抓地 超强耐磨</a>
+                        </div><li><div class="info"> <span class="price">￥578.00</span>
+                                <span class="participate">23人已参与</span></div>
+                        <div class="title-text">
+                                <a title="NIKE AIR FORCE 1 ULTRA 16新款AF1休闲板鞋 845052-001-100" target="_blank" href="http://www.shihuo.cn/tuangou/list/p-0-%E4%BC%91%E9%97%B2%E9%9E%8B">NIKE AIR FORCE 1 ULTRA 16新款AF1休闲板鞋 845052-001-100</a>
+                        </div></ul>
+</div>
+<script>
+        $(function(){
+                $("#J_focusImgShihuo").focusImg({
+                        time : "8"
+                });
+        });
+</script>			        <!--focus ent-->
+			    </div>
+			    <div class="bottom"></div>
+			    </div>
+                    <!--资讯开始-->
+                    <!--篮球彩票开始-->
+                    <div class="lancai">
+                        <div class="top"></div>
+                        <div class="center">
+                            <h4 class="c5">
+                            	<a title="篮球彩票" target="_blank" href="http://caipiao.hupu.com">篮球彩票</a>
+                            </h4>
+                            <div class="more_tab">
+                            <a href="http://bbs.hupu.com/all-lottery" target="_blank" title="彩票论坛">彩票论坛</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="list">
+                            <!-- 彩票iframe暂时注释换成广告位 -->
+<!--    <script type='text/cjs'>-->
+<!--    GA_googleFillSlotWithSize("ca-pub-1024337685431355", "linshi320X205", 320, 205);-->
+<!--    </script>-->
+<div id='div-gpt-ad-1442459674416-11' style='height:205px; width:320px; overflow:hidden;'>
+    <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-11'); });
+    </script>
+</div>
+<!--<iframe scrolling="no" name="caipiaoiframe" frameborder="0" marginwidth="0" marginheight="0" style="border: none ; width: 320px; height: 230px;"  src="about:blank">
+</iframe>
+<script >
+var caipiaourl="";
+</script>-->
+<div class="lc_list">
+		<ul>
+				<li><a target="_blank" href="http://bbs.hupu.com/lancai">NBA如火如荼，篮彩讨论区高手云集带你飞！</a></li>
+				<li><a target="_blank" href="http://bbs.hupu.com/zucai">五大联赛激战正酣，足彩讨论区等你来交流。</a></li>
+				<li><a target="_blank" href="http://bbs.hupu.com/caipiao">购买彩票中您的建议和疑问我们一一来解答。</a></li>
+				</ul>
+</div>
+<div class="lc_rk">
+						<table cellspacing="0" cellpadding="0" border="0">
+						  <tbody>
+						  <tr>
+							<td>北京单场：
+							<a target="_blank" href="http://caipiao.hupu.com/pages/lottery/dc/index_spf.shtml">胜平负</a>
+							<a target="_blank" href="http://caipiao.hupu.com/pages/lottery/dc/index_bqc.shtml">半全场</a>
+							<a target="_blank" href="http://caipiao.hupu.com/pages/lottery/dc/index_qcbf.shtml">全场比分</a>
+							<a target="_blank" href="http://caipiao.hupu.com/pages/lottery/dc/index_sxds.shtml">上下单双</a>
+							</td>
+						  </tr>
+						  <tr>
+							<td>竞彩足球：<a class="red" target="_blank" href="http://caipiao.hupu.com/pages/lotnew/zq/index_gdhhspf_dg.shtml">New!猜一场胜负</a>
+							<a target="_blank" href="http://caipiao.hupu.com/pages/lotnew/zq/index_gdhhspf.shtml">胜平负</a>
+							<a target="_blank" href="http://caipiao.hupu.com/pages/lotnew/zq/index_gdbf.shtml">比分</a>
+							<a target="_blank" href="http://caipiao.hupu.com/pages/lotnew/zq/index_gdzjqs.shtml">总进球数</a>
+							<a target="_blank" href="http://caipiao.hupu.com/pages/lotnew/zq/index_gdbqc.shtml">半全场</a></td>
+						  </tr>
+						  <tr>
+
+							<td>竞彩篮球：
+							<a target="_blank" href="http://caipiao.hupu.com/pages/lottery/jclc/index_guding_sf.shtml">胜负</a>
+							<a target="_blank" href="http://caipiao.hupu.com/pages/lottery/jclc/index_guding_rfsf.shtml">让分胜负</a>
+							<a target="_blank" href="http://caipiao.hupu.com/pages/lottery/jclc/index_guding_sfc.shtml">胜分差</a>
+							<a target="_blank" href="http://caipiao.hupu.com/pages/lottery/jclc/index_guding_dxf.shtml">大小分</a></td>
+						  </tr>
+                                                  <tr>
+                                                      <td>更多玩法：
+                                                                <a target="_blank" href="http://caipiao.hupu.com/fcssq/">双色球</a>
+                                                                <a target="_blank" href="http://caipiao.hupu.com/xssc/">时时彩</a>
+                                                                <a target="_blank" href="http://caipiao.hupu.com/tcdlt/">大乐透</a>
+                                                                <a target="_blank" href="http://caipiao.hupu.com/11x5/">11选5</a>
+                                                                <a target="_blank" href="http://caipiao.hupu.com/">更多</a>
+                                                      </td>
+                                                  </tr>
+                                                  <tr><td><a target="_blank" href="http://bbs.hupu.com/10725002.html">一分钟了解一场胜负（单场固定投注）</a></td></tr>
+						</tbody></table>
+</div>
+                            </div>
+                        </div>
+                        <div class="bottom"></div>
+                    </div>
+                </div>
+                <!--下右-->
+            	<div class="bottom_right">
+                    <div class="xiegui">
+                        <div class="top">
+                            <h4 class="b4"><a title="虎扑装备" target="_blank" href="http://zb.hupu.com/">虎扑装备</a></h4>
+                            <div class="more_tab"><a href="http://zb.hupu.com/" target="_blank">装备中心</a> | <a href="http://zb.hupu.com/rank" target="_blank">榜单</a> | <a href="http://bbs.hupu.com/all-gear" target="_blank">装备区</a></div>
+                		</div>
+                          <div class="center">
+     <div class="list2">
+         <div class="left"><a href="http://bbs.hupu.com/16674022.html" target="_blank"><img src="http://w4.hoopchina.com.cn/ba/29/af/ba29afd5bff82b282d16c14cebc6339a001.jpg" /></a></div>
+         <div class="zhaiyao">
+             <h5><a href="http://bbs.hupu.com/16674022.html" target="_blank">Crazylight Boost 2016，不light但绝对够crazy的分卫战靴</a></a></h5>
+             <p>这双crazylight的确是阿迪近年来让我眼前一亮的篮球鞋，因为首次全掌boost的运用在一双低帮鞋...</p>
+         </div>
+         <div class="clear"></div>
+         <ul>
+                          <li>
+                 <a href="http://bbs.hupu.com/16188488.html" target="_blank">毒APP微信公众等待你的关注</a>
+                 <a href="http://bbs.hupu.com/16668682.html" target="_blank">曝Nike KOBE XI EM Quai54</a>
+             </li>
+                          <li>
+                 <a href="http://bbs.hupu.com/16630280.html" target="_blank">识货众测Crazylight Boost 16</a>
+                 <a href="http://bbs.hupu.com/16672024.html" target="_blank">韦德之道3正代和轻质版对比</a>
+             </li>
+                          <li>
+                 <a href="http://bbs.hupu.com/16673053.html" target="_blank">Olivier Rousteing冷门但好看</a>
+                 <a href="http://bbs.hupu.com/16673338.html" target="_blank">佳作Reebok×Kendrick Lamar</a>
+             </li>
+                          <li>
+                 <a href="http://bbs.hupu.com/16673632.html" target="_blank">UA大金州之子库里 lux 大红</a>
+                 <a href="http://bbs.hupu.com/16674425.html" target="_blank">更新NIKE北京燕莎奥莱折扣店</a>
+             </li>
+                          <li>
+                 <a href="http://bbs.hupu.com/16678610.html" target="_blank">鞋门歪道CL Boost 16 Low</a>
+                 <a href="http://bbs.hupu.com/16675217.html" target="_blank">李宁wow4穿着近一个月总结</a>
+             </li>
+                      </ul>
+     </div>
+
+ </div>
+                        <div class="bottom"></div>
+                    </div>
+                    <!-- 跑步开始 -->
+                    <div class="zhuangbei xiegui">
+                        <div class="top">
+                            <h4 class="b7"><a title="虎扑跑步" target="_blank" href="http://run.hupu.com/">虎扑跑步</a></h4>
+                            <div class="more_tab"><a href="http://goto.hupu.com/?a=goClick&id=7773" target="_blank">跑步APP</a> | <a href="http://bbs.hupu.com/running" target="_blank">跑步区</a></div>
+                        </div>
+                         <div class="center">
+     <div class="list2">
+         <div class="left"><a href="http://bbs.hupu.com/16559489.html" target="_blank"><img src="http://w2.hoopchina.com.cn/a5/8a/1f/a58a1f4fe221fd58ace7763d8866c286002.png" /></a></div>
+         <div class="zhaiyao">
+             <h5><a href="http://bbs.hupu.com/16559489.html" target="_blank">人品爆棚！网友徒步白捡新款iPhone</a></a></h5>
+             <p>这是什么季节，人品爆了棚，徒手捡爱凤！我也是第一次遇见这种好事啊，你们羡慕归羡慕，不要有其他念头！</p>
+         </div>
+         <div class="clear"></div>
+         <ul>
+                          <li>
+                 <a href="http://bbs.hupu.com/16321179.html" target="_blank">“萧敬腾”季节，穿什么鞋应对？</a>
+                 <a href="http://bbs.hupu.com/16094507.html" target="_blank">这些品牌撕逼大战好热闹！</a>
+             </li>
+                          <li>
+                 <a href="http://bbs.hupu.com/16210893.html" target="_blank">不要小看膝盖疼，疼你一辈子！</a>
+                 <a href="http://bbs.hupu.com/15777906.html" target="_blank">意淫，他们是认真的！</a>
+             </li>
+                          <li>
+                 <a href="http://bbs.hupu.com/16161058.html" target="_blank">拒绝山寨，我们只送正品！</a>
+                 <a href="http://bbs.hupu.com/15687949.html" target="_blank">发胖之前的征兆，你有吗？</a>
+             </li>
+                          <li>
+                 <a href="http://bbs.hupu.com/16169560.html" target="_blank">该给你的装备洗洗冷水澡了！</a>
+                 <a href="http://bbs.hupu.com/13652235.html" target="_blank">12张图，你如何正确跑步？</a>
+             </li>
+                          <li>
+                 <a href="http://bbs.hupu.com/15980114.html" target="_blank">到底买跑车还是跑鞋呢？</a>
+                 <a href="http://bbs.hupu.com/15796420.html" target="_blank">44%跑步伤病，因为穿错鞋！</a>
+             </li>
+                      </ul>
+     </div>
+
+ </div>
+                        <div class="bottom"></div>
+                    </div>
+                                         <!-- 跑步结束 -->
+                    <!--约战开始-->
+                    <div class="yuezhan">
+                        <div class="top">
+                            <h4 class="d1"><a title="校园篮球" target="_blank" href="http://bbs.hupu.com/cuba">校园篮球</a></h4>
+                          <div class="more_tab"><a href="http://bbs.hupu.com/streetball" target="_blank" title="街球">街球</a> | <a href="http://bbs.hupu.com/home" target="_blank" title="同城约战">同城</a> | <a href="http://bbs.hupu.com/fit" target="_blank" title="健身">健身</a></div>
+                        </div>
+                        
+<div class="center" style="height: 155px;">
+		<div class="list">
+    	<div class="left"><a href="http://bbs.hupu.com/16690331.html" target="_blank">
+    	<img width="190px" height="110px" src="http://w3.hoopchina.com.cn/db/cb/cd/dbcbcd21d12a2b1508192f8aeb08f9e1001.jpg" /></a></div>
+    	<div class="zhaiyao">
+       	  <h5><a href="http://bbs.hupu.com/16690331.html" target="_blank">福建工程学院夺CUBA阳光组总冠军</a></h5>
+            <p>中国刑事警察学院获得亚军，广东科技学院获得季军，重庆邮电大学获第四，八一农垦大学第五。</p>
+   	  </div>
+        <div class="clear"></div>
+      <ul>
+       	  <li>
+	       	  <a href="http://bbs.hupu.com/16683865.html" target="_blank">校园篮球，不再是“自娱自乐”</a>
+	       	  <a href="http://bbs.hupu.com/5785481.html" target="_blank">网友整理：CUBA参赛年限资料</a> 
+       	  </li>
+        <li>
+        	<a href="http://bbs.hupu.com/16645633.html" target="_blank">“67分先生”侯子宇将参加选秀</a>
+        	<a href="http://bbs.hupu.com/16614141.html" target="_blank">清华后卫班铎：王洪是我的师父</a>
+       </li>
+        <li>
+	        <a href="http://bbs.hupu.com/16684590.html" target="_blank">天津财大女篮是怎样的存在？</a>
+	        <a href="http://bbs.hupu.com/16651881.html" target="_blank">中国后卫随加拿大校队战邀请赛</a>
+        </li>
+      </ul>
+	 
+  </div>                      
+    <!--    <div class="holdball"><a href="http://bbs.hupu.com/1352487.html" target="_blank">虎扑已在166个城市举办<span class="numball">--><!--</span>场篮球赛</a></div>    -->
+</div>
+                        <div class="bottom"></div>
+                    </div>
+                    <!--游戏开始-->
+                    <div class="NBA2K"  >
+                       <div class="top">
+                     	<h4 class="d2"><a href="http://bbs.hupu.com/nba2k" target="_blank" title="虎扑游戏">虎扑游戏</a></h4>
+                            <div class="more_tab"><a href="http://bbs.hupu.com/NBA2Konline" target="_blank">NBA2K Online</a> | <a href="http://bbs.hupu.com/nba2k-type3" target="_blank" title="nba2k10补丁下载">2K补丁</a> | <a href="http://bbs.hupu.com/nba2k" target="_blank">2K论坛</a></div>
+                        	
+                        </div>
+    <div class="center">
+			<div class="list">
+        	<div class="left"><a href="http://youxi.hupu.com/mklq_kqdownload?" target="_blank"><img width="190px" height="110px" src="http://w2.hoopchina.com.cn/67/80/d0/6780d0a70f5b7d54e37dac8f6dedee64001.jpg" /></a></div>
+        	<div class="zhaiyao">
+           	  <h5><a href="http://youxi.hupu.com/mklq_kqdownload?" target="_blank">《萌卡篮球》虎扑新服，劲爆开启！</a></h5>
+                <p>在游戏中，玩家扮演一名球队经理，通过不断的补强阵容、培养球星，打造自己的强力球队，在各级比赛中角逐。</p>
+       	  </div>
+            <div class="clear"></div>
+          <ul>
+           	  <li><a href="http://hupu.gameol.com/website/wszzl" target="_blank">《武神赵子龙》新服开启！</a><a href="http://hupu.gameol.com/website/fbdl" target="_blank">《风暴大陆》虎扑服开启！</a> </li>
+            <li><a href="http://youxi.hupu.com/mklq_kqdownload?" target="_blank">《萌卡篮球》新服开启！</a><a href="http://hupu.gameol.com/website/sszj" target="_blank">《蜀山战纪》新服开启！</a></li>
+             <li><a href="http://hupu.gameol.com/website/jyjh" target="_blank">《剑雨江湖》新服开启！</a><a href="http://hupu.gameol.com/website/jyjx" target="_blank">《九阴绝学》新服开启！</a></li>
+          </ul>
+		<div class="game_l">
+		  <h5>推荐游戏</h5>
+		  
+				<table cellspacing="0" cellpadding="0" border="0" class="game_e">
+				<tbody>
+				<tr>
+                                <td><a href="http://hupu.gameol.com/website/jyjx" target="_blank"><i class="nab-gameIco"><img src="http://w2.hoopchina.com.cn/static/www/rec-game/recGame-7-1456883586.jpg?v=20160302" border="0"></i>九阴绝学</a></td>
+                                                <td><a href="http://youxi.hupu.com/mklq_kqdownload?" target="_blank"><i class="nab-gameIco"><img src="http://w2.hoopchina.com.cn/static/www/rec-game/recGame-2-1435223374.jpg?v=20150625" border="0"></i>萌卡篮球</a></td>
+                </tr><tr>                                <td><a href="http://hupu.gameol.com/website/hqg" target="_blank"><i class="nab-gameIco"><img src="http://w1.hoopchina.com.cn/static/www/rec-game/recGame-3-1453271159.png?v=20160120" border="0"></i>花千骨</a></td>
+                                                <td><a href="http://hupu.gameol.com/website/mhjx" target="_blank"><i class="nab-gameIco"><img src="http://w4.hoopchina.com.cn/36/f6/18/36f618f3cc7ff8721a0b13dbd0e321ad001.jpg" border="0"></i>莽荒纪</a></td>
+                </tr><tr>                                <td><a href="http://hupu.gameol.com/website/fbdl" target="_blank"><i class="nab-gameIco"><img src="http://w2.hoopchina.com.cn/static/www/rec-game/recGame-5-1453271159.jpg?v=20160120" border="0"></i>风暴大陆</a></td>
+                                                <td><a href="http://hupu.gameol.com/website/tod" target="_blank"><i class="nab-gameIco"><img src="http://w2.hoopchina.com.cn/static/www/rec-game/recGame-6-1453271159.png?v=20160120" border="0"></i>命运之塔</a></td>
+                </tr><tr>                                <td><a href="http://hupu.gameol.com/website/clx" target="_blank"><i class="nab-gameIco"><img src="http://w1.hoopchina.com.cn/static/www/rec-game/recGame-1-1453271159.jpg?v=20160120" border="0"></i>楚留香新传</a></td>
+                                                <td><a href="http://hupu.gameol.com/website/rxsg2" target="_blank"><i class="nab-gameIco"><img src="http://w2.hoopchina.com.cn/static/www/rec-game/recGame-8-1453271159.jpg?v=20160120" border="0"></i>热血三国2</a></td>
+                </tr><tr>                				</tr>
+				</tbody></table>
+		</div>
+		<div class="game_r">
+				<h5>最新开服</h5>
+				<table class="game_f" border="0" cellspacing="0" cellpadding="0">
+				<tbody>
+
+				<tr>
+					<th>时间</th>
+					<th>游戏</th>
+					<th>服务器</th>
+				</tr>
+								<tr>
+					<td>4-22</td>
+					<td><a target="_blank" href="http://hupu.gameol.com/website/wszzl">武神赵子龙</a></td>
+					<td>开服</td>
+				</tr>
+								<tr>
+					<td>4-19</td>
+					<td><a target="_blank" href="http://hupu.gameol.com/website/jyjh">剑雨江湖</a></td>
+					<td>开服</td>
+				</tr>
+								<tr>
+					<td>4-14</td>
+					<td><a target="_blank" href="http://hupu.gameol.com/website/jyjx">九阴绝学</a></td>
+					<td>开服</td>
+				</tr>
+								</tbody>
+				</table>
+			
+		</div>
+			<div class="clear"></div>
+			<a class="geme_ct" target="_blank" href="http://youxi.hupu.com/"><span>体验更多精彩游戏</span></a>
+		  
+      </div>                      
+       
+    </div>
+    <div class="bottom"></div>
+                    </div>
+
+
+                </div>
+                    <div class="clear"></div>
+				<div class="nba-ad728-90">
+                    <script type="text/javascript" src="http://static.csbew.com/k.js"></script>
+                    <!-- hoopchina-index-bottom-banner728x90 -->
+                    <div id='div-gpt-ad-1442459674416-1' style='height:90px; width:728px; overflow:hidden;'>
+                        <script type='text/javascript'>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-1'); });
+                        </script>
+                    </div>
+                </div>
+            </div>
+            <!--下部结束 图片开始-->
+            <div class="photo">
+                <div class="top"></div>
+                <div class="center">
+                    <h4><a href="http://photo.hupu.com/nba" target="_blank" title="NBA图片中心">NBA图片中心</a></h4>
+              		
+<div class="list">
+    <div class="newpic">最新图集</div>
+    <ul>
+                <li>
+            <a href="http://photo.hupu.com/nba/p31997.html" target="_blank">
+                <img src="http://img1.hupucdn.com/photo/0-0-1467598712jpg_100x100_2016-07-04.jpg"/>
+                爱篮球爱老婆的大赢家            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/nba/p31995.html" target="_blank">
+                <img src="http://img1.hupucdn.com/photo/36-0-1467599581jpg_100x100_2016-07-04.jpg"/>
+                爱打篮球的美女超级赞            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/nba/p31996.html" target="_blank">
+                <img src="http://img1.hupucdn.com/photo/0-0-1467599725jpg_100x100_2016-07-04.jpg"/>
+                健身+纹身的视觉盛宴            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/nba/p31994.html" target="_blank">
+                <img src="http://img1.hupucdn.com/photo/207-0-1467600188jpg_100x100_2016-07-04.jpg"/>
+                沉默孕育最强大的力量            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/nba/p31999.html" target="_blank">
+                <img src="http://img1.hupucdn.com/photo/84-27-1467609023jpg_100x100_2016-07-04.jpg"/>
+                詹姆斯与保罗赤膊度假            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/nba/p31978.html" target="_blank">
+                <img src="http://img2.hupucdn.com/photo/5eda9bcbjpg_100x100_2016-07-03.jpg"/>
+                竟然有这么完美的爱情            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/nba/p31990.html" target="_blank">
+                <img src="http://img1.hupucdn.com/photo/58-0-1467516879jpg_100x100_2016-07-03.jpg"/>
+                周董胖了26斤？不明显            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/nba/p31969.html" target="_blank">
+                <img src="http://img2.hupucdn.com/photo/122-0-1467516498jpg_100x100_2016-07-03.jpg"/>
+                吴悠对篮球态度没毛病            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/nba/p31991.html" target="_blank">
+                <img src="http://img2.hupucdn.com/photo/489-36-1467531188jpg_100x100_2016-07-03.jpg"/>
+                林书豪的合同有多便宜            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/nba/p31980.html" target="_blank">
+                <img src="http://img2.hupucdn.com/photo/69-213-1467430985jpg_100x100_2016-07-02.jpg"/>
+                小笼包陈妍希瘦身之路            </a>
+        </li>
+                <div class="clear"></div>
+    </ul>
+    <div class="xxpic">休闲图集</div>
+    <ul>
+                <li>
+            <a href="http://photo.hupu.com/ent/p13755.html" target="_blank">
+                <img src="http://img2.hupucdn.com/photo/2-4-1467505182jpg_100x100_2016-07-03.jpg"/>
+                胖男人胖女人一样性感            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/ent/p13756.html" target="_blank">
+                <img src="http://img2.hupucdn.com/photo/0-24-1467524872jpg_100x100_2016-07-03.jpg"/>
+                妹子逃不出我的手掌心            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/ent/p13752.html" target="_blank">
+                <img src="http://img2.hupucdn.com/photo/8255724epng_100x100_2016-07-01.png"/>
+                女生打架都这么强悍？            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/ent/p13753.html" target="_blank">
+                <img src="http://img2.hupucdn.com/photo/0-20-1467365735jpg_100x100_2016-07-01.jpg"/>
+                你们两个这样真的好么            </a>
+        </li>
+                <li>
+            <a href="http://photo.hupu.com/ent/p13751.html" target="_blank">
+                <img src="http://img1.hupucdn.com/photo/0-63-1467288628jpg_100x100_2016-06-30.jpg"/>
+                你还能蛋定的玩游戏？            </a>
+        </li>
+                <div class="clear"></div>
+    </ul>
+</div>
+
+                </div>
+                <div class="bottom"></div>
+            </div>
+
+            <!-- 虎扑 tv start -->
+            <div class="photo huputv">
+                <div class="top"></div>
+                <div class="center">
+                    <div class="title">
+                        <a href="http://www.videohupu.com" title="虎扑TV" target="_blank"><h4></h4></a>
+                        <span class="button-more">
+                            <a href="http://www.videohupu.com" target="_blank">更多主播</a>
+                        </span>
+                    </div>
+                    <div class="bd">
+                        <ul class="tv-list" id="J_huputvList">
+                                                                                    <li>
+                                <div class="pic">
+                                    <a href="http://www.videohupu.com/10260">
+                                        <img src="http://i3.hoopchina.com.cn/hupuapp/kanqiu/201606/kanqiu_10260_20160619105614_280283208.jpeg@300h_534w_1e_1c" alt="小学生放暑假了">
+                                        <i class="icon-play"></i>
+                                    </a>
+                                </div>
+
+                                <div class="content">
+                                    <a href="http://www.videohupu.com/10260">小学生放暑假了</a>
+                                </div>
+
+                                <div class="button-other">
+                                    <span class="name">
+                                        <i class="icon-username"></i>航母                                    </span>
+
+                                                                    </div>
+                            </li>
+                                                        <li>
+                                <div class="pic">
+                                    <a href="http://www.videohupu.com/10327">
+                                        <img src="http://kanqiu.hupucdn.com/kanqiu_10327_20160130102211.jpeg!cover-534x300.jpeg" alt="一个和谐有爱的房间！">
+                                        <i class="icon-play"></i>
+                                    </a>
+                                </div>
+
+                                <div class="content">
+                                    <a href="http://www.videohupu.com/10327">一个和谐有爱的房间！</a>
+                                </div>
+
+                                <div class="button-other">
+                                    <span class="name">
+                                        <i class="icon-username"></i>简单拉呜                                    </span>
+
+                                                                    </div>
+                            </li>
+                                                        <li>
+                                <div class="pic">
+                                    <a href="http://www.videohupu.com/10584">
+                                        <img src="http://i3.hoopchina.com.cn/hupuapp/kanqiu/201606/kanqiu_10584_20160621163013_1522078110.jpeg@300h_534w_1e_1c" alt="台湾高中篮球邀请赛！">
+                                        <i class="icon-play"></i>
+                                    </a>
+                                </div>
+
+                                <div class="content">
+                                    <a href="http://www.videohupu.com/10584">台湾高中篮球邀请赛！</a>
+                                </div>
+
+                                <div class="button-other">
+                                    <span class="name">
+                                        <i class="icon-username"></i>衿凡                                    </span>
+
+                                                                    </div>
+                            </li>
+                                                        <li>
+                                <div class="pic">
+                                    <a href="http://www.videohupu.com/10245">
+                                        <img src="http://i3.hoopchina.com.cn/hupuapp/kanqiu/201606/kanqiu_10245_20160621155259_1495786396.jpeg@300h_534w_1e_1c" alt="劲爆！台湾第一高中生高国豪！">
+                                        <i class="icon-play"></i>
+                                    </a>
+                                </div>
+
+                                <div class="content">
+                                    <a href="http://www.videohupu.com/10245">劲爆！台湾第一高中生高国豪！</a>
+                                </div>
+
+                                <div class="button-other">
+                                    <span class="name">
+                                        <i class="icon-username"></i>罗伯特                                    </span>
+
+                                                                    </div>
+                            </li>
+                                                                                </ul>
+                    </div>
+                </div>
+                <div class="bottom"></div>
+            </div>
+            <!-- 虎扑 tv end -->
+
+            <div class="container_bottom">
+            	<div class="bottom_left">
+            		<!--资讯开始-->
+            		<div class="top"></div>
+                    <div class="center">
+                        <div class="zixun">
+                            <h4 class="c2">
+                                综合体育
+                            </h4>							<div class="clear"></div>
+                            <div class="list">
+                                <ul><li class="qu"><a href="http://soccer.hupu.com/" target="_blank">足球</a>&nbsp; <span>|</span></li><li ><span><a href="http://voice.hupu.com/soccer/2046616.html" target="_blank">官方：曼城签下乌克兰小妖津琴科</a></span></li><li ><span><a href="http://voice.hupu.com/soccer/2046613.html" target="_blank">官方：马德里竞技续约费尔南多-托雷斯</a></span></li><li ><span><a href="http://voice.hupu.com/soccer/2046638.html" target="_blank">官方：博斯克卸任西班牙国家队主帅</a></span></li><li ><span><a href="http://voice.hupu.com/soccer/2046545.html" target="_blank">重回意甲，科瓦契奇将以租借身份加盟米兰？</a></span></li><li ><span><a href="http://voice.hupu.com/soccer/2046589.html" target="_blank">祸不单行？三狮铁卫疑印尼度假散心却受伤</a></span></li><li ><span><a href="http://voice.hupu.com/soccer/2046628.html" target="_blank">官方：巴萨签下丹尼斯-苏亚雷斯</a></span></li><li ><span><a href="http://voice.hupu.com/soccer/2046604.html" target="_blank">天空体育：贝纳蒂亚接近租借尤文，即将官宣</a></span></li><li ><span><a href="http://voice.hupu.com/soccer/2046617.html" target="_blank">安德雷-戈麦斯：现在不该谈论个人未来</a></span></li><li ><span><a href="http://voice.hupu.com/soccer/2046554.html" target="_blank">威尔士主帅：我不会执教英格兰</a></span></li><li ><span><a href="http://voice.hupu.com/soccer/2046607.html" target="_blank">卡西通过推特发布合照与博斯克和解</a></span></li></ul><div class="clear"></div><ul><li class="qu"><a href="http://soccer.hupu.com/china/" target="_blank">中超</a>&nbsp; <span>|</span></li><li ><span><a href="http://voice.hupu.com/china/2046612.html" target="_blank">蔡振华怒批郭炳颜，李铁进京道歉双方和解</a></span></li><li ><span><a href="http://voice.hupu.com/china/2046599.html" target="_blank">李铁致歉：没把控好情绪，已向郭领队道歉</a></span></li><li ><span><a href="http://voice.hupu.com/china/2046489.html" target="_blank">华夏回应“炮轰门”：属教练个人观点</a></span></li><li ><span><a href="http://voice.hupu.com/china/2046582.html" target="_blank">高洪波回应李铁炮轰门：年轻时都会犯错</a></span></li><li ><span><a href="http://voice.hupu.com/china/2046551.html" target="_blank">官方：北京国安替补中卫晋鹏翔租借天津权健</a></span></li><li ><span><a href="http://voice.hupu.com/china/2046490.html" target="_blank">孙继海评李铁抨击国足领队：球员需好好保护</a></span></li><li ><span><a href="http://voice.hupu.com/china/2046543.html" target="_blank">传申花依旧有意佩莱，开价年薪1500万欧</a></span></li><li ><span><a href="http://voice.hupu.com/china/2046620.html" target="_blank">华夏副总：李铁言论不当，已前往足协沟通</a></span></li><li ><span><a href="http://voice.hupu.com/china/2046656.html" target="_blank">鲁能引进哲科难度大，意媒：他对中国没兴趣</a></span></li><li ><span><a href="http://voice.hupu.com/china/2046555.html" target="_blank">孙可盼为国战12强赛，卡纳瓦罗大度送祝福</a></span></li></ul><div class="clear"></div><ul><li class="qu"><a href="http://bbs.hupu.com/sports" target="_blank">体育场</a>&nbsp; <span>|</span></li><li ><span><a href="http://voice.hupu.com/sports/2046739.html" target="_blank">海盗新秀罗伯森遭到枪击 被击中两枪</a></span></li><li ><span><a href="http://voice.hupu.com/sports/2046588.html" target="_blank">红牛能量FC广州战队正式成立</a></span></li><li ><span><a href="http://voice.hupu.com/sports/2046746.html" target="_blank">比尔外接手古德温未能获得奥运会参赛资格</a></span></li><li ><span><a href="http://voice.hupu.com/sports/2046750.html" target="_blank">海豚首轮新秀唐西尔表现不佳 暂失首发位置</a></span></li><li ><span><a href="http://voice.hupu.com/sports/2046760.html" target="_blank">7月4日皮埃尔保罗分享手指照片</a></span></li></ul><div class="clear"></div>                            </div>
+                        </div>
+                    </div>
+                    <div class="bottom"></div>
+                </div>
+                <div class="bottom_right">
+                    <div id="new_s_sc" class="retie">
+                        <div class="top"><h4 class="d4"><a href="http://bbs.hupu.com/all-gambia" target="_blank" title="非体育">非体育</a></h4>                        </div>
+                        <div class="center">
+  							<div class="list">
+                                <!--leisurestart-->
+                                <ul>
+    <li class="qu"><a href="http://tu.hupu.com/" target="_blank">亮图</a>&nbsp;&nbsp;|</li>
+            <li ><span><a href="http://photo.hupu.com/ent/p13719.html"  target="_blank">黑丝+旗袍！台湾美腿女神这么穿真犯规</a></span><span style="margin-left:5px">
+            15回复            </span></li>
+    </ul>
+<div class="clear"></div>
+<ul>
+    <li class="qu"><a href="http://bbs.hupu.com/ent" target="_blank">影视</a>&nbsp;&nbsp;|</li>
+            <li ><span><a href="http://bbs.hupu.com/16684341.html"  target="_blank">小小女子半边天：关咏荷版《苗翠花》</a></span><span style="margin-left:5px">
+            2亮26回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16684828.html"  target="_blank">女扮男装，许仙和东方不败谁更成功？</a></span><span style="margin-left:5px">
+            4亮73回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16678423.html"  target="_blank">极限挑战收官战，小猪的演出什么水平</a></span><span style="margin-left:5px">
+            17亮105回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16666217.html"  target="_blank">惊天魔盗团2里面的中国元素，你怎么看</a></span><span style="margin-left:5px">
+            2亮43回复            </span></li>
+    </ul>
+<div class="clear"></div>
+<ul>
+    <li class="qu"><a href="http://bbs.hupu.com/game" target="_blank">电竞</a>&nbsp;&nbsp;|</li>
+            <li ><span><a href="http://bbs.hupu.com/16673468.html"  target="_blank">你们玩打野，抓人都是怎么分配人头的</a></span><span style="margin-left:5px">
+            2亮50回复            </span></li>
+    </ul>
+<div class="clear"></div>
+<ul>
+    <li class="qu"><a href="http://bbs.hupu.com/acg" target="_blank">ACG</a>&nbsp;&nbsp;|</li>
+            <li ><span><a href="http://bbs.hupu.com/16684561.html"  target="_blank">龙珠而论，结婚前的琪琪可以打几分？</a></span><span style="margin-left:5px">
+            3亮36回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16680929.html"  target="_blank">日本女声优竟然拿了职业摔跤赛的冠军 </a></span><span style="margin-left:5px">
+            2亮28回复            </span></li>
+    </ul>
+<div class="clear"></div>
+<ul>
+    <li class="qu"><a href="http://bbs.hupu.com/selfie" target="_blank">爆照</a>&nbsp;&nbsp;|</li>
+            <li ><span><a href="http://bbs.hupu.com/16677800.html"  target="_blank">神似大胸姐，我闺蜜的靓照大家给几分</a></span><span style="margin-left:5px">
+            1亮67回复            </span></li>
+    </ul>
+<div class="clear"></div>
+<ul>
+    <li class="qu"><a href="http://bbs.hupu.com/bxj" target="_blank">春潮</a>&nbsp;&nbsp;|</li>
+            <li ><span><a href="http://bbs.hupu.com/16681946.html"  target="_blank">美貌女友用嘴巴为我表演乐器让我感动</a></span><span style="margin-left:5px">
+            2亮88回复            </span></li>
+    </ul>
+<div class="clear"></div>
+<ul>
+    <li class="qu"><a href="http://bbs.hupu.com/bxj" target="_blank">虎声</a>&nbsp;&nbsp;|</li>
+            <li ><span><a href="http://bbs.hupu.com/16680897.html"  target="_blank">我的逗逼女友，《小鸡小鸡》送给人家</a></span><span style="margin-left:5px">
+            7回复            </span></li>
+    </ul>
+<div class="clear"></div>
+<ul>
+    <li class="qu"><a href="http://bbs.hupu.com/bxj" target="_blank">新鲜</a>&nbsp;&nbsp;|</li>
+            <li ><span><a href="http://bbs.hupu.com/16689754.html"  target="_blank"><em class="photo_i">老公总是以累为借口不交公粮怎么办</em></a></span><span style="margin-left:5px">
+            3亮236回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16682273.html"  target="_blank">网友认为自己拍到UFO，众JR激烈讨论</a></span><span style="margin-left:5px">
+            11亮171回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16689346.html"  target="_blank">战士在洪水中浸泡一天，双脚失去肉色</a></span><span style="margin-left:5px">
+            5亮129回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16688909.html"  target="_blank">这卧室装修花了六千，大家觉得怎么样</a></span><span style="margin-left:5px">
+            11亮260回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16688340.html"  target="_blank">女孩不让男友湿鞋，背着他淌水过马路</a></span><span style="margin-left:5px">
+            7亮178回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16684739.html"  target="_blank">6千头猪因洪灾无法转移，主人挥泪诀别</a></span><span style="margin-left:5px">
+            19亮543回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16688701.html"  target="_blank">网友佘地铁票被拒，竟然曝光工作人员</a></span><span style="margin-left:5px">
+            15亮296回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16689011.html"  target="_blank"><em class="photo_i">你还记得当时那个忘了爱的青年么？</em></a></span><span style="margin-left:5px">
+            1亮46回复            </span></li>
+    </ul>
+<div class="clear"></div>
+<ul>
+    <li class="qu"><a href="http://bbs.hupu.com/bxj" target="_blank">话题</a>&nbsp;&nbsp;|</li>
+            <li ><span><a href="http://bbs.hupu.com/16685297.html"  target="_blank">百名诺奖得主声讨反转基因，小崔咋办</a></span><span style="margin-left:5px">
+            8亮136回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16681827.html"  target="_blank">一起来晒晒你们大学毕业时的纪念品！</a></span><span style="margin-left:5px">
+            3亮66回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16677166.html"  target="_blank">因为一个女性朋友，老婆一直不搭理我</a></span><span style="margin-left:5px">
+            7亮184回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16676445.html"  target="_blank">我在北美读博士，本西蒙斯是我的校友</a></span><span style="margin-left:5px">
+            4亮372回复            </span></li>
+            <li ><span><a href="http://bbs.hupu.com/16682438.html"  target="_blank">你们觉得迈克尔杰克逊的唱功什么水平</a></span><span style="margin-left:5px">
+            10亮79回复            </span></li>
+    </ul>
+<div class="clear"></div>
+                                <!--leisureend-->
+                            </div>
+                        </div>
+                        <div class="bottom"></div></div>
+                    </div>
+				<div class="clear"></div>
+            </div>
+			<div class="nba-ad728-90">
+				<script type="text/javascript">//<![CDATA[
+				_acK({aid:68779,format:0,mode:1,gid:1,serverbaseurl:"afp.csbew.com/"});
+				//]]></script>
+			</div>
+        </div>
+
+
+        <!--右边结束-->
+	  <div class="clear"></div>
+      <!--登陆框开始-->
+		</div>
+</div>
+<!--main结束1-->
+<script type="text/javascript">
+$('#mainnav li a').removeAttr('title');
+$("a").click(function(){ga('atag-click-'+$(this).html()+'-'+$(this).attr("href"));});
+//彩票暂时注释 换成广告位
+//window.frames["caipiaoiframe"].location.href=caipiaourl;
+</script>
+<script language="javascript">
+function in_array(a,c)
+{
+    for(var b=0;b<c.length;b++){var thisEntry=c[b].toString();if(thisEntry==a){return true;break;}}return false;
+}
+var js_date=new Date();var ad_day=js_date.getDate();var ad_mouth=js_date.getMonth();var ad_time_str=(ad_mouth+1)+"_"+ad_day;
+
+var pv_add_time_1 = new Array("4_22", "4_26", "5_14");
+if(in_array(ad_time_str,pv_add_time_1))
+{
+   	document.write('<img src="http://v.admaster.com.cn/i/a13310,b200173871,c2805,i0,m202,h" width="1" height="1" />');
+}
+var pv_add_time_1 = new Array("4_22", "4_23", "4_24","4_26","4_29","5_6","5_7","5_8","5_10","5_14","5_15","5_16","5_20","5_21","5_22","5_23","5_24","5_28","5_29","5_30","5_31","6_4","6_5","6_6","6_7","6_10","6_11","6_12","6_13","6_14","6_17","6_18","6_19","6_20","6_21","6_24","6_25","6_26","6_27","6_28");
+if(in_array(ad_time_str,pv_add_time_1))
+{
+   	document.write('<img src="http://v.admaster.com.cn/i/a13310,b200173873,c2805,i0,m202,h" width="1" height="1" />');
+}
+var pv_add_time_1 = new Array("4_22","4_27","5_7","5_8","5_14","5_15","5_21","5_23","5_30","6_12");
+if(in_array(ad_time_str,pv_add_time_1))
+{
+   	document.write('<img src="http://v.admaster.com.cn/i/a13310,b200173874,c2805,i0,m202,h" width="1" height="1" />');
+}
+
+</script>
+
+<script type="text/javascript">game.initGame();</script>
+
+</div>
+<div id="skin-footer">
+<div class="hp-w hp-footerLinks">
+    友情链接：
+	
+	<a href="http://espn.go.com/nba/" title="ESPN" target="_blank">ESPN</a>
+	<a href="http://bugu.cntv.cn/" title="爱布谷" target="_blank">爱布谷</a>
+	<a href="http://www.nba.com/" title="NBA官网" target="_blank">NBA官网</a>
+	<a href="http://sports.people.com.cn/" title="人民网体育" target="_blank">人民网体育</a>
+	<a href="http://www.hao123.com/" title="hao123" target="_blank">hao123</a>
+	<a href="http://www.mumayi.com/" title="木蚂蚁安卓游戏" target="_blank">木蚂蚁安卓游戏</a>
+	<a href="http://down.znds.com/" title="智能电视软件" target="_blank">智能电视软件</a>
+	<a href="http://www.thearenacapital.com/" title="动域资本" target="_blank">动域资本</a>
+	<a href="http://www.azhibo.com/nbazhibo" title="NBA 直播" target="_blank">NBA 直播</a>
+	<a href="http://www.kaluli.com/" title="卡路里" target="_blank">卡路里</a>
+    <a href="http://nba.hupu.com/hot/link" title="虎扑NBA网友情链接" target="_blank">更多链接</a>
+</div>
+<div class="hp-footer">
+                    <div class="hp-copyright">虎扑（上海）文化传播股份有限公司 <a href="http://www.hupu.com/icp.html" target="_blank">沪B2-20120042</a> 沪ICP备05037078号-13</div>
+                    <div class="hp-copyright">
+                    Copyright by 虎扑JRs &amp;
+                    <a href="http://www.hupu.com/" target="_blank" title="体育">虎扑体育</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="http://mobile.hupu.com/" target="_blank">手机虎扑</a> -
+                    <a href="http://www.hupu.com/declare.html" target="_blank">网站声明</a> -
+                    <a href="http://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="http://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="http://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="http://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="http://soccer.hupu.com/2016" target="_blank" title="2016欧洲杯">2016欧洲杯</a> -
+                    <a href="http://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    <div class="securityPic">
+                    <a href="http://www.jhga.gov.cn/" target="_blank"><img src="http://b3.hoopchina.com.cn/images/wl_wljga.png" alt="金华市公安局网络报警"></a>
+                    <a href="http://www.zx110.org" target="_blank"><img src="http://b3.hoopchina.com.cn/images/wl_wlshzxw.png" alt="网络社会征信网"></a>
+                    <a href="http://www.shjbzx.cn/" target="_blank"><img src="http://b3.hoopchina.com.cn/images/www_jubao.png" alt="上海网络举报图片"></a>
+                    <a href="http://www.12377.cn/" target="_blank"><img src="http://b3.hoopchina.com.cn/images/www_china_jubao.png" alt="全国网络举报图片"></a>
+                    </div>
+                </div>
+</div>
+<script>
+_common.init({project:"nba"});
+</script>
+<script type="text/javascript">
+(function(){
+  var cjsscript = document.createElement('script');
+  cjsscript.src = "http://b3.hoopchina.com.cn/common/lazyLoadAd.js";
+  var cjssib = document.getElementsByTagName('script')[0];
+  cjssib.parentNode.insertBefore(cjsscript, cjssib);
+})()
+</script>
+
+<script language="javascript">
+function in_array(a,c)
+{
+    for(var b=0;b<c.length;b++){var thisEntry=c[b].toString();if(thisEntry==a){return true;break;}}return false;
+}
+var js_date=new Date();var ad_day=js_date.getDate();var ad_mouth=js_date.getMonth();var ad_time_str=(ad_mouth+1)+"_"+ad_day;
+
+var pv_add_time_1 = new Array("12_25");
+if(in_array(ad_time_str,pv_add_time_1))
+{
+	document.write('<img src="http://g.cn.miaozhen.com/x.gif?k=1004015&p=3y90B0&rt=2&ns=[M_ADIP]&ni=[M_IESID]&na=[M_MAC]&o=" width="1" height="1" />');
+}
+var pv_add_time_1 = new Array("12_26");
+if(in_array(ad_time_str,pv_add_time_1))
+{
+	document.write('<img src="http://v.admaster.com.cn/i/a11894,b200133422,c1434,i0,m202,h" width="1" height="1" />');
+}
+</script>
+<div id='div-gpt-ad-1442459674416-10' style='height:1px; width:1px; overflow:hidden;'>
+    <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-10'); });
+    </script>
+</div>
+<div id='div-gpt-ad-1442459674416-9' style='height:1px; width:1px; overflow:hidden;'>
+    <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442459674416-9'); });
+    </script>
+</div>
+
+<script type="text/javascript">
+            $(function(){
+		var str = '<style type="text/css">html{overflow-x:hidden;}.nba_er_link2{text-decoration:underline;}a:hover.nba_er_link2{text-decoration:none;}.nba_er_link{display:block;margin-bottom:5px;}.code-fixed-right{position:absolute; right:-146px; top:65px;}.nba_er{position:relative;width:114px;padding:25px 0 5px;margin-bottom:10px;border:1px solid #bcbcbc;line-height:18px; text-align:center;}</style>\
+			<div class="code-fixed-right">\
+				<div class="nba_er">\
+				  <a href="http://goto.hupu.com/?a=goClick&id=5655" target="_blank" class="nba_er_link">\
+					<img src="http://b3.hoopchina.com.cn/web/channel/nba/index/qcode/downApp.png" />\
+				  </a>\
+				  <b style="color:#b74545;">手机看NBA直播</b><br/>点击或扫描下载<br/><a class="nba_er_link2" href="http://bbs.hupu.com/4051495.html" target="_blank">如何扫描？</a>\
+				  <div class="nba_er_close" style="position:absolute; width:19px; height:19px; right:-1px; top:-1px;border:1px solid #bcbcbc;cursor:pointer;">X</div>\
+				</div>\
+			</div>';
+		$(str).appendTo(".hp-wrap");
+		$(".nba_er_close").click(function(){
+			$(this).parents('.nba_er').remove();
+		})
+	});
+        
+</script>
+<!-- 马年换肤标识 -->
+<script>
+ var horseYearFlag = 0 ;
+ var horseCurrent = new Date();
+ var horseStart = new Date("Jan 29, 2014 15:00:00");
+ var horseEnd = new Date("Feb 15, 2014 10:00:00");
+ if(horseCurrent.getTime()>horseStart.getTime() && horseCurrent.getTime()<horseEnd.getTime())
+     {
+         var horseYearFlag = 1;
+     }
+</script>
+<!-- 马年换肤标识 -->
+<script type="text/javascript" src="http://b3.hoopchina.com.cn/web/ad/skin/js/replaceSkin-gbk.v1.js"></script>
+
+<!--[if lt IE 9]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js" type="text/javascript"></script>
+<![endif]-->
+
+<script src="http://orz.hupu.com/nba/stream.js" type="text/javascript"></script>
+<!--美孚覆层小广告注释 -->
+<!--<script src="http://w3.hoopchina.com.cn/index/js/smallCenterSkin.js?v=201403281001"></script>-->
+<!-- 元旦换肤-->
+
+<script type='text/javascript'>
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+</body>
+</html>
