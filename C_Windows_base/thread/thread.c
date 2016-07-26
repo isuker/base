@@ -28,5 +28,7 @@ int main ()
    HANDLE h2 = CreateThread(NULL, 0, thread2, NULL, 0, NULL);
    WaitForSingleObject(h1, INFINITE);
    WaitForSingleObject(h2, INFINITE);
+   CloseHandle(h1);
+   CloseHandle(h2);
    return 0;
 }
