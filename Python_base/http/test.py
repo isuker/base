@@ -8,10 +8,9 @@ fp = urllib.request.urlopen("http://nba.hupu.com/")
 f = fp.read()
 src.write(f)
 
-html_str = re.search(r'http.*?html',str(f))
+html_str = re.findall(r'^',str(f))
 
-##print(type(html_str.group()))
-print(type(f))
+print(html_str[1])
 
 src.close()
 tar.close()
