@@ -32,7 +32,7 @@ int main()
     
     write(sockfd, &ch, 1);
     read(sockfd, &ch, 1);
-    printf("char from server = c%\n",ch);
+    printf("char from server = %c\n",ch);
     close(sockfd);
     exit(0);
 }
